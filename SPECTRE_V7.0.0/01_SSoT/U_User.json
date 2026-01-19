@@ -1,0 +1,11 @@
+{
+    "Header":  {
+                   "Category":  "U_User",
+                   "Description":  "Points de controle synchronises",
+                   "Version":  "1.0.0",
+                   "TotalCount":  0
+               },
+    "Controls":  {
+
+                 }
+}

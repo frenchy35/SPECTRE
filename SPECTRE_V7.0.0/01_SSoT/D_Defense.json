@@ -1,0 +1,234 @@
+{
+    "Header":  {
+                   "Category":  "D_Defense",
+                   "Description":  "Points de controle synchronises",
+                   "Version":  "1.0.0",
+                   "TotalCount":  32
+               },
+    "Controls":  [
+                     {
+                         "MitreID":  "T1188",
+                         "Name":  "Multi-hop Proxy",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "command-and-control"
+                     },
+                     {
+                         "MitreID":  "T1562.001",
+                         "Name":  "Disable or Modify Tools",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "defense-evasion"
+                     },
+                     {
+                         "MitreID":  "T1070.007",
+                         "Name":  "Clear Network Connection History and Configurations",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "defense-evasion"
+                     },
+                     {
+                         "MitreID":  "T1001",
+                         "Name":  "Data Obfuscation",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "command-and-control"
+                     },
+                     {
+                         "MitreID":  "T1564.008",
+                         "Name":  "Email Hiding Rules",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "defense-evasion"
+                     },
+                     {
+                         "MitreID":  "T1483",
+                         "Name":  "Domain Generation Algorithms",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "command-and-control"
+                     },
+                     {
+                         "MitreID":  "T1036.002",
+                         "Name":  "Right-to-Left Override",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "defense-evasion"
+                     },
+                     {
+                         "MitreID":  "T1562.011",
+                         "Name":  "Spoof Security Alerting",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "defense-evasion"
+                     },
+                     {
+                         "MitreID":  "T1560",
+                         "Name":  "Archive Collected Data",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "collection"
+                     },
+                     {
+                         "MitreID":  "T1053.005",
+                         "Name":  "Scheduled Task",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "execution, persistence, privilege-escalation"
+                     },
+                     {
+                         "MitreID":  "T1211",
+                         "Name":  "Exploitation for Defense Evasion",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "defense-evasion"
+                     },
+                     {
+                         "MitreID":  "T1130",
+                         "Name":  "Install Root Certificate",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "defense-evasion"
+                     },
+                     {
+                         "MitreID":  "T1546.011",
+                         "Name":  "Application Shimming",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "privilege-escalation, persistence"
+                     },
+                     {
+                         "MitreID":  "T1498",
+                         "Name":  "Network Denial of Service",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "impact"
+                     },
+                     {
+                         "MitreID":  "T1562",
+                         "Name":  "Impair Defenses",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "defense-evasion"
+                     },
+                     {
+                         "MitreID":  "T1027",
+                         "Name":  "Obfuscated Files or Information",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "defense-evasion"
+                     },
+                     {
+                         "MitreID":  "T1499",
+                         "Name":  "Endpoint Denial of Service",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "impact"
+                     },
+                     {
+                         "MitreID":  "T1568.002",
+                         "Name":  "Domain Generation Algorithms",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "command-and-control"
+                     },
+                     {
+                         "MitreID":  "T1070.009",
+                         "Name":  "Clear Persistence",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "defense-evasion"
+                     },
+                     {
+                         "MitreID":  "T1070.010",
+                         "Name":  "Relocate Malware",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "defense-evasion"
+                     },
+                     {
+                         "MitreID":  "T1553.005",
+                         "Name":  "Mark-of-the-Web Bypass",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "defense-evasion"
+                     },
+                     {
+                         "MitreID":  "T1564.012",
+                         "Name":  "File/Path Exclusions",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "defense-evasion"
+                     },
+                     {
+                         "MitreID":  "T1668",
+                         "Name":  "Exclusive Control",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "persistence"
+                     },
+                     {
+                         "MitreID":  "T1553.004",
+                         "Name":  "Install Root Certificate",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "defense-evasion"
+                     },
+                     {
+                         "MitreID":  "T1090.003",
+                         "Name":  "Multi-hop Proxy",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "command-and-control"
+                     },
+                     {
+                         "MitreID":  "T1195.001",
+                         "Name":  "Compromise Software Dependencies and Development Tools",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "initial-access"
+                     },
+                     {
+                         "MitreID":  "T1133",
+                         "Name":  "External Remote Services",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "persistence, initial-access"
+                     },
+                     {
+                         "MitreID":  "T1070",
+                         "Name":  "Indicator Removal",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "defense-evasion"
+                     },
+                     {
+                         "MitreID":  "T1138",
+                         "Name":  "Application Shimming",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "persistence, privilege-escalation"
+                     },
+                     {
+                         "MitreID":  "T1027.014",
+                         "Name":  "Polymorphic Code",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "defense-evasion"
+                     },
+                     {
+                         "MitreID":  "T1622",
+                         "Name":  "Debugger Evasion",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "defense-evasion, discovery"
+                     },
+                     {
+                         "MitreID":  "T1022",
+                         "Name":  "Data Encrypted",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "exfiltration"
+                     }
+                 ]
+}

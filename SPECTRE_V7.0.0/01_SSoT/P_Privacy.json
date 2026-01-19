@@ -1,0 +1,24 @@
+{
+    "Header":  {
+                   "Category":  "P_Privacy",
+                   "Description":  "Points de controle synchronises",
+                   "Version":  "1.0.0",
+                   "TotalCount":  2
+               },
+    "Controls":  [
+                     {
+                         "MitreID":  "T1562.006",
+                         "Name":  "Indicator Blocking",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "defense-evasion"
+                     },
+                     {
+                         "MitreID":  "T1054",
+                         "Name":  "Indicator Blocking",
+                         "Status":  "PENDING",
+                         "Enforced":  false,
+                         "Tactic":  "defense-evasion"
+                     }
+                 ]
+}
