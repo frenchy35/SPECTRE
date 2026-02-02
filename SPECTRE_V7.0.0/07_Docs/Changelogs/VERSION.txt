@@ -1,1 +1,0 @@
-2026-01-16 | V7.1.2 | Initialisation locale du projet.
