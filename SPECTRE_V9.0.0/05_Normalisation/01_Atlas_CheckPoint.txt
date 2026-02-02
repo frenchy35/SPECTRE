@@ -1,0 +1,43 @@
+SILO;TYPE;PATH;TARGET;EXPECTED_VALUE;SOURCE
+05_OS_CONFIG;REG;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Sandboxie;virtual environment but not in usual host systems.;global-os-objects
+05_OS_CONFIG;REG;HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall;Sandboxie;environment.;global-os-objects
+05_OS_CONFIG;REG;HKLM\HARDWARE\DEVICEMAP\Scsi\Scsi Port 1\Scsi Bus 0\Target Id 0;Logical;assumption that the file shouldn't contain "styles?, and the value of this field should be 0 as well.;anti-analysis
+05_OS_CONFIG;REG;HKLM\HARDWARE\DEVICEMAP\Scsi\Scsi Port 1\Scsi Bus 0\Target Id 0;Logical;cores.;macos
+05_OS_CONFIG;REG;HKLM\HARDWARE\DEVICEMAP\Scsi\Scsi Port 1\Scsi Bus 0\Target Id 0;Logical;cores, which is always;macos
+05_OS_CONFIG;REG;HKLM\SOFTWARE\Oracle;VirtualBox;---;global-os-objects
+05_OS_CONFIG;REG;HKLM\SOFTWARE\Oracle;VirtualBox;in the table below to check registry path */;registry
+05_OS_CONFIG;REG;HKLM\SOFTWARE\Oracle;VirtualBox;in the table below to check registry path and key values */;registry
+05_OS_CONFIG;REG;HKLM\SOFTWARE\Oracle;VirtualBox;{% endhighlight %};macos
+05_OS_CONFIG;REG;HKLM\HARDWARE\DEVICEMAP\Scsi\Scsi Port 2\Scsi Bus 0\Target Id 0;Logical;assumption that the file shouldn't contain "styles?, and the value of this field should be 0 as well.;anti-analysis
+05_OS_CONFIG;REG;HKLM\HARDWARE\DEVICEMAP\Scsi\Scsi Port 2\Scsi Bus 0\Target Id 0;Logical;cores.;macos
+05_OS_CONFIG;REG;HKLM\HARDWARE\DEVICEMAP\Scsi\Scsi Port 2\Scsi Bus 0\Target Id 0;Logical;cores, which is always;macos
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;and associated documentation files (the "Software"), to deal;LICENSE
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;without restriction, including without limitation the rights;LICENSE
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR;LICENSE
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;OR THE USE OR OTHER DEALINGS IN THE;LICENSE
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;breakpoint. Without a debugger present, after getting to the <tt>INT3</tt> instruction, the exception <tt>EXCEPTION_BREAKPOINT</tt> (<tt>0x80000003</tt>) is generated and an exception handler will be called. If the debugger is present, the control won't be given to the exception handler.;assembly
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;Breakpoints (INT3)](#software-breakpoints);process-memory
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;breakpoints in the code, or check the CPU debug registers to determine if hardware breakpoints are set.;process-memory
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;Breakpoints (INT3)</a></h4>;process-memory
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;breakpoint on the instruction which follows the call (i.e. the return address of the called function).;process-memory
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;breakpoint (<tt>0xCC</tt>) is located at the return address, we can patch it with some other instruction (e.g. <tt>NOP</tt>). It will most likely break the code and crash the process. On the other hand, we can patch the return address with some meaningful code instead of <tt>NOP</tt> and change the control flow of the program.;process-memory
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;breakpoint after the call of this function. We can read one byte at the return address and if the byte is equal to <tt>0xCC</tt> (<tt>INT 3</tt>), it can be rewritten by <tt>0x90</tt> (<tt>NOP</tt>). The process will probably crash because we damage the instruction at the return address. However, if you know which instruction follows the function call, you can rewrite the breakpoint with the first byte of this instruction.;process-memory
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;breakpoints in the code, these fields must not be set.;process-memory
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;breakpoints, debugger's step-overs, functions' inline hooks, or data modification.;process-memory
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;Breakpoint & Anti-Step-Over: There is no possibility of interfering with these checks as they don't need to use API and they access memory directly.;process-memory
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;International</td>;firmware-tables
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;breakpoint (<tt>int 3</tt>), not connected with hooks directly but still a suspicious behavior.</li>;hooks
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;packages were installed](#check-if-certain-software-package-were-installed);human-like-behavior
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;installation notes are stored here. All of these may be used to determine if the machine is operated by a human user and is not a sandbox.;human-like-behavior
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;packages were installed</a></h4>;human-like-behavior
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;packages than a usual user?s work machine. The installed packages may be specific to emulation purposes, not the ones that are usually used by human operators. Therefore, the list of installed packages may be compared to the list of commonly used applications to determine if it?s a sandbox.;human-like-behavior
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;(like Notepad++)</li>;human-like-behavior
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;licensing policy.;macos
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE;SOFTWARE;licensing policy doesn't allow emulating macOS on hardware other than the original Apple hardware.;macos
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion;Image;File Execution Options (IFEO) registry key, which is used by the Windows operating system to set debugging options for executable files.;misc
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion;Image;below exploits a <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-3333">CVE-2010-3333 vulnerability</a> that occurs when using an invalid <tt>\sv</tt> value for the pFragments shape property:;human-like-behavior
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion;Schedule;tasks. Sandboxes usually use the <tt>CreateProcessInternalW</tt> function hooking to track child processes. However, when you create the process using WMI the function <tt>CreateProcessInternalW</tt> is not called in the parent process. Therefore, the processes created using WMI may not be tracked by a sandbox and their behavior will not be recorded.;wmi
+05_OS_CONFIG;REG;HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion;Schedule;a task.;wmi
+05_OS_CONFIG;REG;HKLM\HARDWARE\DEVICEMAP\Scsi\Scsi Port 0\Scsi Bus 0\Target Id 0;Logical;assumption that the file shouldn't contain "styles?, and the value of this field should be 0 as well.;anti-analysis
+05_OS_CONFIG;REG;HKLM\HARDWARE\DEVICEMAP\Scsi\Scsi Port 0\Scsi Bus 0\Target Id 0;Logical;cores.;macos
+05_OS_CONFIG;REG;HKLM\HARDWARE\DEVICEMAP\Scsi\Scsi Port 0\Scsi Bus 0\Target Id 0;Logical;cores, which is always;macos

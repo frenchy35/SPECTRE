@@ -1,0 +1,379 @@
+HKCR\AppID\pafish64.exe
+HKCR\CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}
+HKCR\CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}\(Default)
+HKCR\CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}\ActivateOnHostFlags
+HKCR\CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}\AppID
+HKCR\CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}\Elevation
+HKCR\CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}\InprocHandler
+HKCR\CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}\InprocHandler32
+HKCR\CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}\InprocServer32
+HKCR\CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}\InprocServer32\(Default)
+HKCR\CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}\InprocServer32\InprocServer32
+HKCR\CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}\InprocServer32\ThreadingModel
+HKCR\CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}\LocalServer
+HKCR\CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}\LocalServer32
+HKCR\CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}\TreatAs
+HKCR\CLSID\{2781761E-28E0-4109-99FE-B9D127C57AFE}\InprocServer32
+HKCR\CLSID\{2781761E-28E0-4109-99FE-B9D127C57AFE}\InprocServer32\(Default)
+HKCR\CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}
+HKCR\CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}\(Default)
+HKCR\CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}\ActivateOnHostFlags
+HKCR\CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}\AppID
+HKCR\CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}\Elevation
+HKCR\CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}\InprocHandler
+HKCR\CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}\InprocHandler32
+HKCR\CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}\InprocServer32
+HKCR\CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}\InprocServer32\(Default)
+HKCR\CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}\InprocServer32\InprocServer32
+HKCR\CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}\InprocServer32\ThreadingModel
+HKCR\CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}\LocalServer
+HKCR\CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}\LocalServer32
+HKCR\CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}\TreatAs
+HKCR\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}
+HKCR\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}\(Default)
+HKCR\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}\ActivateOnHostFlags
+HKCR\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}\AppID
+HKCR\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}\Elevation
+HKCR\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}\InprocHandler
+HKCR\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}\InprocHandler32
+HKCR\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}\InprocServer32
+HKCR\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}\InProcServer32\(Default)
+HKCR\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}\InProcServer32\InprocServer32
+HKCR\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}\InProcServer32\ThreadingModel
+HKCR\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}\LocalServer
+HKCR\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}\LocalServer32
+HKCR\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}\TreatAs
+HKCR\CLSID\{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+HKCR\CLSID\{8BC3F05E-D86B-11D0-A075-00C04FB68820}\(Default)
+HKCR\CLSID\{8BC3F05E-D86B-11D0-A075-00C04FB68820}\ActivateOnHostFlags
+HKCR\CLSID\{8BC3F05E-D86B-11D0-A075-00C04FB68820}\InprocHandler
+HKCR\CLSID\{8BC3F05E-D86B-11D0-A075-00C04FB68820}\InprocHandler32
+HKCR\CLSID\{8BC3F05E-D86B-11D0-A075-00C04FB68820}\InprocServer32
+HKCR\CLSID\{8BC3F05E-D86B-11D0-A075-00C04FB68820}\TreatAs
+HKCR\CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}
+HKCR\CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}\(Default)
+HKCR\CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}\ActivateOnHostFlags
+HKCR\CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}\AppID
+HKCR\CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}\Elevation
+HKCR\CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}\InprocHandler
+HKCR\CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}\InprocHandler32
+HKCR\CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}\InprocServer32
+HKCR\CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}\InprocServer32\(Default)
+HKCR\CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}\InprocServer32\InprocServer32
+HKCR\CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}\InprocServer32\ThreadingModel
+HKCR\CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}\LocalServer
+HKCR\CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}\LocalServer32
+HKCR\CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}\TreatAs
+HKCR\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}
+HKCR\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}\(Default)
+HKCR\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}\ActivateOnHostFlags
+HKCR\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}\AppID
+HKCR\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}\Elevation
+HKCR\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}\InprocHandler
+HKCR\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}\InprocHandler32
+HKCR\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}\InprocServer32
+HKCR\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}\InProcServer32\(Default)
+HKCR\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}\InProcServer32\InprocServer32
+HKCR\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}\InProcServer32\ThreadingModel
+HKCR\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}\LocalServer
+HKCR\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}\LocalServer32
+HKCR\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}\TreatAs
+HKCR\Interface\{00000134-0000-0000-C000-000000000046}
+HKCR\Interface\{00000134-0000-0000-C000-000000000046}\ProxyStubClsid32
+HKCR\Interface\{00000134-0000-0000-C000-000000000046}\ProxyStubClsid32\(Default)
+HKCR\Interface\{027947E1-D731-11CE-A357-000000000001}
+HKCR\Interface\{027947E1-D731-11CE-A357-000000000001}\ProxyStubClsid32
+HKCR\Interface\{027947E1-D731-11CE-A357-000000000001}\ProxyStubClsid32\(Default)
+HKCR\Interface\{1C1C45EE-4395-11D2-B60B-00104B703EFD}
+HKCR\Interface\{1C1C45EE-4395-11D2-B60B-00104B703EFD}\ProxyStubClsid32
+HKCR\Interface\{1C1C45EE-4395-11D2-B60B-00104B703EFD}\ProxyStubClsid32\(Default)
+HKCR\Interface\{423EC01E-2E35-11D2-B604-00104B703EFD}
+HKCR\Interface\{423EC01E-2E35-11D2-B604-00104B703EFD}\ProxyStubClsid32
+HKCR\Interface\{423EC01E-2E35-11D2-B604-00104B703EFD}\ProxyStubClsid32\(Default)
+HKCR\Interface\{9556DC99-828C-11CF-A37E-00AA003240C7}
+HKCR\Interface\{9556DC99-828C-11CF-A37E-00AA003240C7}\ProxyStubClsid32
+HKCR\Interface\{9556DC99-828C-11CF-A37E-00AA003240C7}\ProxyStubClsid32\(Default)
+HKCR\Interface\{9F6C78EF-FCE5-42FA-ABEA-3E7DF91921DC}
+HKCR\Interface\{9F6C78EF-FCE5-42FA-ABEA-3E7DF91921DC}\ProxyStubClsid32
+HKCR\Interface\{9F6C78EF-FCE5-42FA-ABEA-3E7DF91921DC}\ProxyStubClsid32\(Default)
+HKCR\Interface\{D4781CD6-E5D3-44DF-AD94-930EFE48A887}
+HKCR\Interface\{D4781CD6-E5D3-44DF-AD94-930EFE48A887}\ProxyStubClsid32
+HKCR\Interface\{D4781CD6-E5D3-44DF-AD94-930EFE48A887}\ProxyStubClsid32\(Default)
+HKCR\Interface\{F309AD18-D86A-11D0-A075-00C04FB68820}
+HKCR\Interface\{F309AD18-D86A-11D0-A075-00C04FB68820}\ProxyStubClsid32
+HKCR\Interface\{F309AD18-D86A-11D0-A075-00C04FB68820}\ProxyStubClsid32\(Default)
+HKCU
+HKCU\Control Panel\Desktop
+HKCU\Control Panel\Desktop\EnablePerProcessSystemDPI
+HKCU\Control Panel\Desktop\LanguageConfiguration
+HKCU\Control Panel\Desktop\MuiCached
+HKCU\Control Panel\Desktop\MuiCached\MachineLanguageConfiguration
+HKCU\Control Panel\Desktop\MuiCached\MachinePreferredUILanguages
+HKCU\Control Panel\Desktop\PreferredUILanguages
+HKCU\Software\Classes
+HKCU\Software\Classes\AppID\pafish64.exe
+HKCU\Software\Classes\CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}
+HKCU\Software\Classes\CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}\Elevation
+HKCU\Software\Classes\CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}\InprocHandler
+HKCU\Software\Classes\CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}\InprocHandler32
+HKCU\Software\Classes\CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}\InprocServer32
+HKCU\Software\Classes\CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}\LocalServer
+HKCU\Software\Classes\CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}\LocalServer32
+HKCU\Software\Classes\CLSID\{1B1CAD8C-2DAB-11D2-B604-00104B703EFD}\TreatAs
+HKCU\Software\Classes\CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}
+HKCU\Software\Classes\CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}\Elevation
+HKCU\Software\Classes\CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}\InprocHandler
+HKCU\Software\Classes\CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}\InprocHandler32
+HKCU\Software\Classes\CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}\InprocServer32
+HKCU\Software\Classes\CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}\LocalServer
+HKCU\Software\Classes\CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}\LocalServer32
+HKCU\Software\Classes\CLSID\{4590F811-1D3A-11D0-891F-00AA004B2E24}\TreatAs
+HKCU\Software\Classes\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}
+HKCU\Software\Classes\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}\Elevation
+HKCU\Software\Classes\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}\InprocHandler
+HKCU\Software\Classes\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}\InprocHandler32
+HKCU\Software\Classes\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}\InprocServer32
+HKCU\Software\Classes\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}\LocalServer
+HKCU\Software\Classes\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}\LocalServer32
+HKCU\Software\Classes\CLSID\{7C857801-7381-11CF-884D-00AA004B2E24}\TreatAs
+HKCU\Software\Classes\CLSID\{8BC3F05E-D86B-11D0-A075-00C04FB68820}
+HKCU\Software\Classes\CLSID\{8BC3F05E-D86B-11D0-A075-00C04FB68820}\InprocHandler
+HKCU\Software\Classes\CLSID\{8BC3F05E-D86B-11D0-A075-00C04FB68820}\InprocHandler32
+HKCU\Software\Classes\CLSID\{8BC3F05E-D86B-11D0-A075-00C04FB68820}\InprocServer32
+HKCU\Software\Classes\CLSID\{8BC3F05E-D86B-11D0-A075-00C04FB68820}\TreatAs
+HKCU\Software\Classes\CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}
+HKCU\Software\Classes\CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}\Elevation
+HKCU\Software\Classes\CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}\InprocHandler
+HKCU\Software\Classes\CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}\InprocHandler32
+HKCU\Software\Classes\CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}\InprocServer32
+HKCU\Software\Classes\CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}\LocalServer
+HKCU\Software\Classes\CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}\LocalServer32
+HKCU\Software\Classes\CLSID\{D68AF00A-29CB-43FA-8504-CE99A996D9EA}\TreatAs
+HKCU\Software\Classes\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}
+HKCU\Software\Classes\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}\Elevation
+HKCU\Software\Classes\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}\InprocHandler
+HKCU\Software\Classes\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}\InprocHandler32
+HKCU\Software\Classes\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}\InprocServer32
+HKCU\Software\Classes\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}\LocalServer
+HKCU\Software\Classes\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}\LocalServer32
+HKCU\Software\Classes\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}\TreatAs
+HKCU\Software\Classes\Interface\{00000134-0000-0000-C000-000000000046}
+HKCU\Software\Classes\Interface\{00000134-0000-0000-C000-000000000046}\ProxyStubClsid32
+HKCU\Software\Classes\Interface\{027947E1-D731-11CE-A357-000000000001}
+HKCU\Software\Classes\Interface\{027947E1-D731-11CE-A357-000000000001}\ProxyStubClsid32
+HKCU\Software\Classes\Interface\{1C1C45EE-4395-11D2-B60B-00104B703EFD}
+HKCU\Software\Classes\Interface\{1C1C45EE-4395-11D2-B60B-00104B703EFD}\ProxyStubClsid32
+HKCU\Software\Classes\Interface\{423EC01E-2E35-11D2-B604-00104B703EFD}
+HKCU\Software\Classes\Interface\{423EC01E-2E35-11D2-B604-00104B703EFD}\ProxyStubClsid32
+HKCU\Software\Classes\Interface\{9556DC99-828C-11CF-A37E-00AA003240C7}
+HKCU\Software\Classes\Interface\{9556DC99-828C-11CF-A37E-00AA003240C7}\ProxyStubClsid32
+HKCU\Software\Classes\Interface\{9F6C78EF-FCE5-42FA-ABEA-3E7DF91921DC}
+HKCU\Software\Classes\Interface\{9F6C78EF-FCE5-42FA-ABEA-3E7DF91921DC}\ProxyStubClsid32
+HKCU\Software\Classes\Interface\{D4781CD6-E5D3-44DF-AD94-930EFE48A887}
+HKCU\Software\Classes\Interface\{D4781CD6-E5D3-44DF-AD94-930EFE48A887}\ProxyStubClsid32
+HKCU\Software\Classes\Interface\{F309AD18-D86A-11D0-A075-00C04FB68820}
+HKCU\Software\Classes\Interface\{F309AD18-D86A-11D0-A075-00C04FB68820}\ProxyStubClsid32
+HKCU\Software\Classes\Local Settings
+HKCU\Software\Classes\Local Settings\Software\Microsoft
+HKCU\Software\Classes\Local Settings\Software\Microsoft\Ole
+HKCU\Software\Classes\Local Settings\Software\Microsoft\Ole\FeatureDevelopmentProperties
+HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Cache
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize\AppsUseLightTheme
+HKCU\Software\Policies\Microsoft\Control Panel\Desktop
+HKCU\Software\Policies\Microsoft\Windows\Control Panel\Desktop
+HKCU\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers
+HKCU\SOFTWARE\Wine
+HKLM
+HKLM\HARDWARE\ACPI\DSDT\VBOX__
+HKLM\HARDWARE\ACPI\FADT\VBOX__
+HKLM\HARDWARE\ACPI\RSDT\VBOX__
+HKLM\HARDWARE\Description\System
+HKLM\HARDWARE\DESCRIPTION\System\SystemBiosDate
+HKLM\HARDWARE\DESCRIPTION\System\SystemBiosVersion
+HKLM\HARDWARE\DESCRIPTION\System\VideoBiosVersion
+HKLM\HARDWARE\DEVICEMAP\Scsi\Scsi Port 0\Scsi Bus 0\Target Id 0\Logical Unit Id 0
+HKLM\HARDWARE\DEVICEMAP\Scsi\Scsi Port 1\Scsi Bus 0\Target Id 0\Logical Unit Id 0
+HKLM\HARDWARE\DEVICEMAP\Scsi\Scsi Port 2\Scsi Bus 0\Target Id 0\Logical Unit Id 0
+HKLM\Software
+HKLM\SOFTWARE\Microsoft
+HKLM\Software\Microsoft\AMSI
+HKLM\SOFTWARE\Microsoft\AMSI\FeatureBits
+HKLM\Software\Microsoft\AMSI\Providers
+HKLM\SOFTWARE\Microsoft\AppModel\Lookaside\Packages
+HKLM\Software\Microsoft\COM3
+HKLM\SOFTWARE\Microsoft\COM3\Com+Enabled
+HKLM\SOFTWARE\Microsoft\CTF
+HKLM\SOFTWARE\Microsoft\CTF\Compatibility\pafish64.exe
+HKLM\SOFTWARE\Microsoft\CTF\EnableAnchorContext
+HKLM\Software\Microsoft\LanguageOverlay\OverlayPackages\fr-FR
+HKLM\SOFTWARE\Microsoft\LanguageOverlay\OverlayPackages\fr-FR\Latest
+HKLM\SOFTWARE\Microsoft\OLE
+HKLM\SOFTWARE\Microsoft\Ole\AggressiveMTATesting
+HKLM\Software\Microsoft\OLE\AppCompat
+HKLM\SOFTWARE\Microsoft\Ole\AppCompat\RaiseActivationAuthenticationLevel
+HKLM\Software\Microsoft\Ole\FeatureDevelopmentProperties
+HKLM\SOFTWARE\Microsoft\Ole\MaximumAllowedAllocationSize
+HKLM\SOFTWARE\Microsoft\Ole\MaxSxSHashCount
+HKLM\SOFTWARE\Microsoft\Ole\PageAllocatorSystemHeapIsPrivate
+HKLM\SOFTWARE\Microsoft\Ole\PageAllocatorUseSystemHeap
+HKLM\Software\Microsoft\OLE\Tracing
+HKLM\SOFTWARE\Microsoft\OLEAUT
+HKLM\Software\Microsoft\Rpc
+HKLM\Software\Microsoft\Rpc\Extensions
+HKLM\SOFTWARE\Microsoft\Rpc\Extensions\NdrOleExtDLL
+HKLM\SOFTWARE\Microsoft\Rpc\IdleTimerWindow
+HKLM\SOFTWARE\Microsoft\Rpc\MaxRpcSize
+HKLM\SOFTWARE\Microsoft\WBEM
+HKLM\SOFTWARE\Microsoft\Wbem\AmsiEnable
+HKLM\Software\Microsoft\WBEM\CIMOM
+HKLM\SOFTWARE\Microsoft\Wbem\CIMOM\ContextLimit
+HKLM\SOFTWARE\Microsoft\Wbem\CIMOM\EnablePrivateObjectHeap
+HKLM\SOFTWARE\Microsoft\Wbem\CIMOM\IdentifierLimit
+HKLM\SOFTWARE\Microsoft\Wbem\CIMOM\ObjectLimit
+HKLM\SOFTWARE\Microsoft\Wbem\CIMOM\ProcessID
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\LogFlags
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\ShowDebugInfo
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Compatibility32
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Compatibility32\pafish64
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\GRE_Initialize
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\GRE_Initialize\DisableMetaFiles
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\GRE_Initialize\DisableUmpdBufferSizeCheck
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\Conhost.exe
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\pafish64.exe
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\IME Compatibility
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\DataStore_V1.0
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\DataStore_V1.0\DataFilePath
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\DataStore_V1.0\Disable
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback\Plane1
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback\Plane10
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback\Plane11
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback\Plane12
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback\Plane13
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback\Plane14
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback\Plane15
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback\Plane16
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback\Plane2
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback\Plane3
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback\Plane4
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback\Plane5
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback\Plane6
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback\Plane7
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback\Plane8
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback\Plane9
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\LanguagePack\SurrogateFallback\System
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\ProfileList
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList\Default
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList\ProgramData
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList\Public
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Windows
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Windows\LoadAppInit_DLLs
+HKLM\Software\Microsoft\Windows\CurrentVersion
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock\AllowDevelopmentWithoutDevLicense
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\CommonFilesDir
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\CommonFilesDir (x86)
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\CommonW6432Dir
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OOBE
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OOBE\LaunchUserOOBE
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ProgramFilesDir
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ProgramFilesDir (x86)
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ProgramW6432Dir
+HKLM\Software\Microsoft\Windows\CurrentVersion\SideBySide
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\SideBySide\PreferExternalManifest
+HKLM\SOFTWARE\Oracle\VirtualBox Guest Additions
+HKLM\Software\Policies\Microsoft\MUI\Settings
+HKLM\Software\Policies\Microsoft\System\DNSClient
+HKLM\Software\Policies\Microsoft\Windows NT\Rpc
+HKLM\SOFTWARE\Policies\Microsoft\Windows\Appx
+HKLM\SOFTWARE\Policies\Microsoft\Windows\Appx\AllowDevelopmentWithoutDevLicense
+HKLM\Software\Policies\Microsoft\Windows\Control Panel\Desktop
+HKLM\Software\Policies\Microsoft\Windows\Display
+HKLM\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers
+HKLM\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers\TransparentEnabled
+HKLM\SOFTWARE\VMware, Inc.\VMware Tools
+HKLM\system\CurrentControlSet
+HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName
+HKLM\System\CurrentControlSet\Control\ComputerName\ActiveComputerName\ComputerName
+HKLM\System\CurrentControlSet\Control\Error Message Instrument
+HKLM\System\CurrentControlSet\Control\FileSystem
+HKLM\System\CurrentControlSet\Control\FileSystem\LongPathsEnabled
+HKLM\System\CurrentControlSet\Control\Hvsi
+HKLM\System\CurrentControlSet\Control\Hvsi\IsHvsiContainer
+HKLM\System\CurrentControlSet\Control\Lsa
+HKLM\System\CurrentControlSet\Control\Lsa\AnonymousAppContainerImpersonationLevelCheck
+HKLM\System\CurrentControlSet\Control\Lsa\EveryoneIncludesAnonymous
+HKLM\System\CurrentControlSet\Control\Lsa\FipsAlgorithmPolicy
+HKLM\System\CurrentControlSet\Control\Lsa\FipsAlgorithmPolicy\Enabled
+HKLM\System\CurrentControlSet\Control\Lsa\FipsAlgorithmPolicy\MDMEnabled
+HKLM\System\CurrentControlSet\Control\Lsa\FipsAlgorithmPolicy\STE
+HKLM\system\CurrentControlSet\control\NetworkProvider\HwOrder
+HKLM\System\CurrentControlSet\Control\NetworkProvider\HwOrder\ProviderOrder
+HKLM\system\CurrentControlSet\control\NetworkProvider\ProviderOrder
+HKLM\System\CurrentControlSet\Control\NetworkProvider\ProviderOrder\LanmanWorkstation
+HKLM\System\CurrentControlSet\Control\NetworkProvider\ProviderOrder\RDPNP
+HKLM\System\CurrentControlSet\Control\NetworkProvider\ProviderOrder\webclient
+HKLM\System\CurrentControlSet\Control\Nls\CustomLocale
+HKLM\System\CurrentControlSet\Control\Nls\CustomLocale\en
+HKLM\System\CurrentControlSet\Control\Nls\CustomLocale\en-US
+HKLM\System\CurrentControlSet\Control\Nls\CustomLocale\fr
+HKLM\System\CurrentControlSet\Control\Nls\CustomLocale\fr-FR
+HKLM\System\CurrentControlSet\Control\Nls\ExtendedLocale
+HKLM\System\CurrentControlSet\Control\Nls\ExtendedLocale\en
+HKLM\System\CurrentControlSet\Control\Nls\ExtendedLocale\en-US
+HKLM\System\CurrentControlSet\Control\Nls\ExtendedLocale\fr
+HKLM\System\CurrentControlSet\Control\Nls\ExtendedLocale\fr-FR
+HKLM\System\CurrentControlSet\Control\Nls\Sorting\Ids
+HKLM\System\CurrentControlSet\Control\Nls\Sorting\Ids\fr
+HKLM\System\CurrentControlSet\Control\Nls\Sorting\Ids\fr-FR
+HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions
+HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\(Default)
+HKLM\System\CurrentControlSet\Control\Nls\Sorting\Versions\000603xx
+HKLM\System\CurrentControlSet\Control\SafeBoot\Option
+HKLM\System\CurrentControlSet\Control\Session Manager
+HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\BAM
+HKLM\System\CurrentControlSet\Control\Session Manager\Environment
+HKLM\System\CurrentControlSet\Control\Session Manager\RaiseExceptionOnPossibleDeadlock
+HKLM\System\CurrentControlSet\Control\Session Manager\ResourcePolicies
+HKLM\System\CurrentControlSet\Control\Session Manager\SafeDllSearchMode
+HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Segment Heap
+HKLM\System\CurrentControlSet\Control\Srp\GP\DLL
+HKLM\System\CurrentControlSet\Control\StateSeparation\RedirectionMap\Keys
+HKLM\System\CurrentControlSet\Control\Terminal Server
+HKLM\System\CurrentControlSet\Control\Terminal Server\TSAppCompat
+HKLM\System\CurrentControlSet\Control\Terminal Server\TSUserEnabled
+HKLM\SYSTEM\CurrentControlSet\Policies\Microsoft\Cryptography\Configuration
+HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-1815651698-557302646-667744772-1001
+HKLM\System\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-1815651698-557302646-667744772-1001\\Device\HarddiskVolume2\Windows\System32\conhost.exe
+HKLM\System\CurrentControlSet\Services\CCG
+HKLM\System\CurrentControlSet\services\LanmanWorkstation\NetworkProvider
+HKLM\System\CurrentControlSet\Services\LanmanWorkstation\NetworkProvider\Class
+HKLM\System\CurrentControlSet\Services\LanmanWorkstation\NetworkProvider\name
+HKLM\System\CurrentControlSet\Services\LanmanWorkstation\NetworkProvider\ProviderPath
+HKLM\System\CurrentControlSet\services\RDPNP\NetworkProvider
+HKLM\System\CurrentControlSet\Services\RDPNP\NetworkProvider\Class
+HKLM\System\CurrentControlSet\Services\RDPNP\NetworkProvider\name
+HKLM\System\CurrentControlSet\Services\RDPNP\NetworkProvider\ProviderPath
+HKLM\System\CurrentControlSet\Services\Tcpip\Parameters
+HKLM\System\CurrentControlSet\Services\Tcpip\Parameters\Domain
+HKLM\System\CurrentControlSet\Services\Tcpip\Parameters\Hostname
+HKLM\System\CurrentControlSet\Services\Tcpip\Parameters\Interfaces
+HKLM\System\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{4279f877-f11e-11f0-8515-806e6f6e6963}
+HKLM\System\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{4279f877-f11e-11f0-8515-806e6f6e6963}\EnableDhcp
+HKLM\System\CurrentControlSet\Services\Tcpip6\Parameters\Interfaces
+HKLM\System\CurrentControlSet\Services\VBoxGuest
+HKLM\System\CurrentControlSet\Services\VBoxMouse
+HKLM\System\CurrentControlSet\Services\VBoxService
+HKLM\System\CurrentControlSet\Services\VBoxSF
+HKLM\System\CurrentControlSet\Services\VBoxVideo
+HKLM\System\CurrentControlSet\services\webclient\NetworkProvider
+HKLM\System\CurrentControlSet\Services\WebClient\NetworkProvider\Class
+HKLM\System\CurrentControlSet\Services\WebClient\NetworkProvider\name
+HKLM\System\CurrentControlSet\Services\WebClient\NetworkProvider\ProviderPath
+HKLM\System\Setup
+HKLM\SYSTEM\Setup\OOBEInProgress
+HKLM\SYSTEM\Setup\SystemSetupInProgress

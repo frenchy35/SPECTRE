@@ -1,0 +1,10 @@
+c:\
+c:\123\
+c:\a\
+c:\analysis\
+c:\insidetm\
+c:\symbols\
+C:\Users\
+C:\Windows\System32\
+c:\windows\system32\drivers\
+M:\Software\Microsoft\Windows\CurrentVersion\Uninstall\

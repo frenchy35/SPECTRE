@@ -1,0 +1,103 @@
+\\.\pipe\VBoxMiniRdDN
+\\.\pipe\VBoxTrayIPC
+C:\\Users
+C:\\Windows\\System32\\calc.exe
+c:\123\email.doc
+c:\123\email.docx
+c:\a\foobar.bmp
+c:\a\foobar.doc
+c:\a\foobar.gif
+c:\analysis
+c:\email.doc
+c:\email.htm
+c:\insidetm
+c:\loaddll.exe
+c:\symbols\aagmmc.pdb
+c:\take_screenshot.ps1
+c:\windows\system32\
+c:\windows\system32\drivers\
+c:\windows\system32\drivers\
+c:\windows\system32\drivers\
+c:\windows\system32\drivers\
+c:\windows\system32\drivers\
+c:\windows\system32\drivers\
+c:\windows\system32\drivers\
+c:\windows\system32\drivers\
+c:\windows\system32\drivers\
+c:\windows\system32\drivers\
+c:\windows\system32\drivers\
+c:\windows\system32\drivers\
+c:\windows\system32\drivers\vmhgfs.syss
+e:\\root\WMI path MSAcpi_ThermalZoneTemperature get CurrentTemperature
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall
+HKCU\SOFTWARE\VMware
+HKCU\SOFTWARE\Wine
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\Configuration
+HKLM\HARDWARE\ACPI\DSDT\VBOX__
+HKLM\HARDWARE\ACPI\DSDT\xen
+HKLM\HARDWARE\ACPI\FADT\VBOX__
+HKLM\HARDWARE\ACPI\FADT\xen
+HKLM\HARDWARE\ACPI\RSDT\VBOX__
+HKLM\HARDWARE\ACPI\RSDT\xen
+HKLM\HARDWARE\Description\System
+HKLM\HARDWARE\Description\System\BIOS
+HKLM\HARDWARE\DEVICEMAP\Scsi\Scsi Port 0\Scsi Bus 0\Target Id 0\Logical Unit Id 0
+HKLM\HARDWARE\DEVICEMAP\Scsi\Scsi Port 1\Scsi Bus 0\Target Id 0\Logical Unit Id 0
+HKLM\HARDWARE\DEVICEMAP\Scsi\Scsi Port 2\Scsi Bus 0\Target Id 0\Logical Unit Id 0
+HKLM\Software\Classes\Folder\shell\sandbox
+HKLM\SOFTWARE\Microsoft\Hyper-V
+HKLM\SOFTWARE\Microsoft\Virtual Machine\Guest\Parameters
+HKLM\SOFTWARE\Microsoft\VirtualMachine
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Sandboxie
+HKLM\SOFTWARE\Oracle\VirtualBox Guest Additions
+HKLM\SOFTWARE\VMware
+HKLM\SOFTWARE\Wine
+HKLM\SYSTEM\ControlSet001\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000
+HKLM\SYSTEM\ControlSet001\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000\Settings
+HKLM\SYSTEM\ControlSet001\Services
+HKLM\SYSTEM\ControlSet001\Services\Disk\Enum
+HKLM\SYSTEM\ControlSet001\Services\msvmmouf
+HKLM\SYSTEM\ControlSet001\Services\VBoxGuest
+HKLM\SYSTEM\ControlSet001\Services\VBoxMouse
+HKLM\SYSTEM\ControlSet001\Services\VBoxService
+HKLM\SYSTEM\ControlSet001\Services\VBoxSF
+HKLM\SYSTEM\ControlSet001\Services\VBoxVideo
+HKLM\SYSTEM\ControlSet001\Services\vmci
+HKLM\SYSTEM\ControlSet001\Services\vmdebug
+HKLM\SYSTEM\ControlSet001\Services\vmicexchange
+HKLM\SYSTEM\ControlSet001\Services\vmicheartbeat
+HKLM\SYSTEM\ControlSet001\Services\vmicshutdown
+HKLM\SYSTEM\ControlSet001\Services\vmicvss
+HKLM\SYSTEM\ControlSet001\Services\VMMEMCTL
+HKLM\SYSTEM\ControlSet001\Services\vmmouse
+HKLM\SYSTEM\ControlSet001\Services\VMTools
+HKLM\SYSTEM\ControlSet001\Services\vmware
+HKLM\SYSTEM\ControlSet001\Services\vmx86
+HKLM\SYSTEM\ControlSet001\Services\vpcbus
+HKLM\SYSTEM\ControlSet001\Services\vpc-s3
+HKLM\SYSTEM\ControlSet001\Services\vpcuhub
+HKLM\SYSTEM\ControlSet001\Services\xenevtchn
+HKLM\SYSTEM\ControlSet001\Services\xennet
+HKLM\SYSTEM\ControlSet001\Services\xennet6
+HKLM\SYSTEM\ControlSet001\Services\xensvc
+HKLM\SYSTEM\ControlSet001\Services\xenvdb
+HKLM\SYSTEM\ControlSet002\Services\Disk\Enum
+HKLM\SYSTEM\ControlSet003\Services\Disk\Enum
+HKLM\SYSTEM\CurrentControlSet\Control\SystemInformation
+HKLM\SYSTEM\CurrentControlSet\Control\Video\{GUID}\0000
+HKLM\SYSTEM\CurrentControlSet\Control\Video\{GUID}\Video
+HKLM\SYSTEM\CurrentControlSet\Enum\IDE\CdRomNECVMWar_VMware_IDE_CD
+HKLM\SYSTEM\CurrentControlSet\Enum\IDE\CdRomNECVMWar_VMware_SATA_CD
+HKLM\SYSTEM\CurrentControlSet\Enum\IDE\DiskVMware_Virtual_IDE_Hard_Drive
+HKLM\SYSTEM\CurrentControlSet\Enum\IDE\DiskVMware_Virtual_SATA_Hard_Drive
+HKLM\SYSTEM\CurrentControlSet\Enum\PCI\VEN_15AD
+HKLM\SYSTEM\CurrentControlSet\Enum\PCI\VEN_1AB8
+HKLM\SYSTEM\CurrentControlSet\Enum\PCI\VEN_5333
+HKLM\SYSTEM\CurrentControlSet\Enum\PCI\VEN_80EE
+HKLM\SYSTEM\CurrentControlSet\Services\SbieDrv
+M:\Software\Microsoft\Windows\CurrentVersion\Uninstall
+PCI\VEN_80EE

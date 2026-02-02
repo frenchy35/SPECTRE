@@ -1,0 +1,469 @@
+HKCR\\Applications\\VMwareHostOpen.exe
+HKCR\CLSID\...\InprocServer32
+HKCR\CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\shell\open
+HKCR\CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\shell\open\command
+HKCR\CLSID\{GUID}
+HKCR\Directory\shellex\ContextMenuHandlers\EPP
+HKCR\Drive\shellex\ContextMenuHandlers\EPP
+HKCR\http\shell\open\command
+HKCR\Installer\Products
+HKCR\nGet-ChildItem -Path HKCR
+HKCR\txtfile\shell\open\command
+HKCR\txtfile\shell\print\command
+HKCR\txtfile\shell\printto\command
+HKCU\\Environment
+HKCU\\Software\\Classes\\CLSID\\{42aedc87-2188-41fd-b9a3-0c966feabec1}\\InprocServer32
+HKCU\Console\QuickEdit
+HKCU\Control Panel\Desktop
+HKCU\Environment
+HKCU\Environment key\nthat can be viewed in the Registry Editor.\n
+HKCU\Environment\COMPlus_ETWEnabled
+HKCU\Environment\u201d
+HKCU\Environment\UserInitMprLogonScript
+HKCU\MyCustomRegKey\nexpand \\webdav\folder\file.bat
+HKCU\MyCustomRegKey\nexpand \\webdav\folder\file.bat c
+HKCU\Software
+HKCU\Software\_rptls\Install
+HKCU\SOFTWARE\{8 random characters}
+HKCU\Software\0E1513CB5D0B\Flood
+HKCU\Software\0E1513CB5D0B\Rans-Status
+HKCU\Software\3862E8D73699\Flood
+HKCU\Software\3862E8D73699\Rans-Status
+HKCU\Software\AppDataLow\Software\Microsoft
+HKCU\Software\AppDataLow\Software\Microsoft\\nMore information - https
+HKCU\Software\AppDataLow\Software\Microsoft\3A861D62-51E0-15700F2219A4
+HKCU\Software\ApplicationContainer\Appsw64
+HKCU\SOFTWARE\ATOMIC-T1053.005
+HKCU\Software\Backtsaleht\StubPath
+HKCU\Software\Bitcoin\Bitcoin-Qt
+HKCU\Software\bkfouerioyou
+HKCU\Software\Classes
+HKCU\Software\Classes\Applications\rundll32.exe\shell\open
+HKCU\Software\Classes\AtomicRedTeam
+HKCU\SOFTWARE\Classes\AtomicTest
+HKCU\SOFTWARE\Classes\AtomicTest.1.00
+HKCU\SOFTWARE\Classes\AtomicTest.1.00\CLSID
+HKCU\SOFTWARE\Classes\AtomicTest\CLSID
+HKCU\Software\Classes\CLSID
+HKCU\Software\Classes\CLSID\ may be anomalous and should be investigated since user objects will be loaded prior to machine objects in HKLM\SOFTWARE\Classes\CLSID\
+HKCU\SOFTWARE\Classes\CLSID\{00000001-0000-0000-0000-0000FEEDACDC}
+HKCU\SOFTWARE\Classes\CLSID\{00000001-0000-0000-0000-0000FEEDACDC}\InprocServer32
+HKCU\SOFTWARE\Classes\CLSID\{00000001-0000-0000-0000-0000FEEDACDC}\ProgID
+HKCU\SOFTWARE\Classes\CLSID\{00000001-0000-0000-0000-0000FEEDACDC}\ScriptletURL
+HKCU\SOFTWARE\Classes\CLSID\{00000001-0000-0000-0000-0000FEEDACDC}\VersionIndependentProgID
+HKCU\Software\Classes\CLSID\{42aedc87-2188-41fd-b9a3-0c966feabec1}\InprocServer32
+HKCU\SOFTWARE\Classes\CLSID\{97D47D56-3777-49FB-8E8F-90D7E30E1A1E}
+HKCU\SOFTWARE\Classes\CLSID\{97D47D56-3777-49FB-8E8F-90D7E30E1A1E}\TreatAs
+HKCU\Software\Classes\Folder\shell\open\command
+HKCU\Software\Classes\http\shell\open\command
+hkcu\software\classes\mscfile
+hkcu\software\classes\mscfile\shell\open\command
+hkcu\software\classes\ms-settings
+HKCU\Software\Classes\ms-settings\shell \open\command
+hkcu\software\classes\ms-settings\shell\open\command
+HKCU\Software\DC3_FEXEC
+HKCU\Software\dnimtsoleht\StubPath
+HKCU\Software\FFMPEG_URL
+HKCU\Software\KasperskyLab
+HKCU\Software\Medusa
+HKCU\Software\Medusa\
+HKCU\Software\Microsoft
+HKCU\Software\Microsoft\CurrentVersion\Run
+HKCU\Software\Microsoft\Internet Explorer
+HKCU\Software\Microsoft\Internet Explorer\ PhishingFilter
+HKCU\Software\Microsoft\Internet Explorer\Privacy
+HKCU\Software\Microsoft\Office
+HKCU\Software\Microsoft\Office test\Special\Perf
+HKCU\SOFTWARE\Microsoft\Office\16.0\Excel\Security
+HKCU\SOFTWARE\Microsoft\Office\16.0\Excel\Security -Name
+HKCU\Software\Microsoft\Office\16.0\Outlook\Security\Level
+HKCU\Software\Microsoft\Office\Common\UserInfo\
+HKCU\SOFTWARE\Microsoft\SystemCertificates
+HKCU\Software\Microsoft\Terminal Server Client\Default
+HKCU\Software\Microsoft\Terminal Server Client\Default\u201d
+HKCU\Software\Microsoft\Terminal Server Client\Servers
+HKCU\SOFTWARE\Microsoft\WABE\DataPath
+HKCU\Software\Microsoft\Windows
+HKCU\Software\Microsoft\Windows NT\CurrentVersion\Windows
+HKCU\Software\Microsoft\Windows NT\CurrentVersion\Windows\Load
+HKCU\Software\Microsoft\Windows NT\CurrentVersion\Winlogon
+HKCU\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\ are used to manage additional helper programs and functionalities that support Winlogon. Malicious modifications to these Registry keys may cause Winlogon to load and execute malicious DLLs and
+HKCU\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\\Shell
+HKCU\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell
+HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel
+HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\Cpls
+HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer
+HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced.\n
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
+HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\UIF2IS20VK
+HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders  -V
+HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings
+HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\InternetSettings\u201d
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\last_edate
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\DisableContextMenusInStart
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\DisallowRun
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\HideSCAHealth
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\HideSCANetwork
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoClose
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoNetworkConnections
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoSearchFilesInStartMenu
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoSearchProgramsInStartMenu
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoSMConfigurePrograms
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoSMMyDocs
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoSMMyPictures
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoStartMenuMorePrograms
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoStartMenuPinnedList
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoTrayContextMenu
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoUserNameInStartMenu
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run to launch calc.exe on boot. \n
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\StartMenuLogOff
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum\\{645FF040-5081-101B-9F08-00AA002F954E\}
+HKCU\Software\Microsoft\Windows\CurrentVersion\policies\system
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System Enable LUA
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System\DisableChangePassword
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System\DisableLockWorkstation
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System\NoClose
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System\NoDispCPL
+HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System\NoLogoff
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\PushNotifications
+HKCU\software\Microsoft\Windows\CurrentVersion\Run
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run and a shortcut within the startup folder
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\ IMJPMIJ8.1{3 characters of Unique Identifier}
+HKCU\Software\Microsoft\Windows\CurrentVersion\Run\IAStorD
+HKCU\Software\Microsoft\Windows\CurrentVersion\Run\imejp
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\OutlookM
+HKCU\Software\Microsoft\Windows\CurrentVersion\Run\OutlookMicrosift
+HKCU\Software\Microsoft\Windows\CurrentVersion\Run\QQMusic
+HKCU\Software\Microsoft\Windows\CurrentVersion\Run\svchost
+HKCU\Software\Microsoft\Windows\CurrentVersion\Run\Windows Debug Tools-
+HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce
+HKCU\Software\Microsoft\Windows\CurrentVersion\RunServices
+HKCU\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce
+HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall
+HKCU\Software\Microsoft\Windows\CurrentVersion\Winlogon
+HKCU\Software\Microsoft\Windows\Run
+HKCU\Software\NEMTY
+HKCU\SOFTWARE\NetWire
+HKCU\Software\NetWire\HostId
+HKCU\Software\NetWire\Install Date
+HKCU\SOFTWARE\Orcus
+HKCU\Software\Policies\Microsoft\PreviousVersions\DisableLocalPage
+HKCU\Software\Policies\Microsoft\Windows NT\Driver Signing
+HKCU\SOFTWARE\Policies\Microsoft\Windows\Explorer
+HKCU\Software\Policies\Microsoft\Windows\Explorer\TaskbarNoPinnedList
+HKCU\Software\Policies\Microsoft\Windows\Installer\AlwaysInstallElevated
+HKCU\Software\Policies\Microsoft\Windows\OOBE
+HKCU\Software\Policies\Microsoft\Windows\PowerShell
+HKCU\Software\Policies\Microsoft\Windows\PowerShell\ModuleLogging
+HKCU\Software\Policies\Microsoft\Windows\PowerShell\ScriptBlockLogging
+HKCU\Software\Policies\Microsoft\Windows\PowerShell\Transcription
+HKCU\Software\Run auto_update
+HKCU\Software\SimonTatham\PuTTY\Sessions
+HKCU\Software\snimtsOleht\StubPath
+HKCU\Software\Sysinternals\Autoruns
+HKCU\Software\Telegram_Notifier
+HKCU\SOFTWARE\VMware
+HKCU\SOFTWARE\Wine
+HKCUS\Software\Microsoft\Windows\CurrentVersion\Run\Graphics
+hkey_current_user\volatile environment\username
+hkey_local_machine\system\controlset001\control\computername\computername\computername
+HKEY_USERS\Software\Microsoft\Windows\CurrentVersion\Run
+HKEY_USERS\Software\Microsoft\Windows\CurrentVersion\Run vpdn \u201c
+HKLM\ SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\CredUI\EnumerateAdministrators
+HKLM\\SAM sam.hiv
+HKLM\\SECURITY security.hiv
+HKLM\\SOFTWARE\\Classes\\AppID\\{AppID_GUID}
+HKLM\\SOFTWARE\\Microsoft\\Ole
+HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options
+HKLM\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\System\\LocalAccountTokenFilterPolicy
+HKLM\\SOFTWARE\\Policies\\Microsoft\\SystemCertificates\\Root\\ProtectedRoots
+HKLM\\system
+HKLM\\SYSTEM system.hiv
+HKLM\\SYSTEM\\CurrentControlSet\\Control
+HKLM\\SYSTEM\\CurrentControlSet\\Control\\Lsa\\RunAsPPL
+HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\SafeDllSearchMode
+HKLM\\SYSTEM\\CurrentControlSet\\Services\\Disk\\Enum
+HKLM\\System\\CurrentControlSet\\Services\\Sysmon
+HKLM\\System\\CurrentControlSet\\Services\\Sysmon64
+HKLM\\System\\CurrentControlSet\\Services\\SysmonDrv
+HKLM\HARDWARE\ACPI\DSDT\VBOX__
+HKLM\HARDWARE\ACPI\DSDT\xen
+HKLM\HARDWARE\ACPI\FADT\VBOX__
+HKLM\HARDWARE\ACPI\FADT\xen
+HKLM\HARDWARE\ACPI\RSDT\VBOX__
+HKLM\HARDWARE\ACPI\RSDT\xen
+HKLM\HARDWARE\Description\System
+HKLM\HARDWARE\Description\System\BIOS
+HKLM\HARDWARE\DESCRIPTION\System\CentralProcessor\0 ProcessorNameString
+HKLM\HARDWARE\DEVICEMAP\Scsi\Scsi Port 0\Scsi Bus 0\Target Id 0\Logical Unit Id 0
+HKLM\HARDWARE\DEVICEMAP\Scsi\Scsi Port 1\Scsi Bus 0\Target Id 0\Logical Unit Id 0
+HKLM\HARDWARE\DEVICEMAP\Scsi\Scsi Port 2\Scsi Bus 0\Target Id 0\Logical Unit Id 0
+HKLM\sam sam
+HKLM\SAM\SAM\Domains\Account\F
+HKLM\SAM\SAM\Domains\Account\Users
+HKLM\Security
+HKLM\Security\\Windows\\
+HKLM\SECURITY\Policy\PolEKList\default
+HKLM\SECURITY\Policy\Secrets
+HKLM\Software
+HKLM\SOFTWARE\Classes\AppID\{{AppID_GUID}}
+HKLM\SOFTWARE\Classes\AppID\{AppID_GUID}
+HKLM\SOFTWARE\Classes\CLSID
+HKLM\Software\Classes\Folder\shell\sandbox
+HKLM\SOFTWARE\Micosoft\Windows\CurrentVersion\Policies\System\LegalNoticeCaption and HKLM\SOFTWARE\Micosoft\Windows\CurrentVersion\Policies\System\LegalNoticeText.\n\n
+HKLM\Software\Microsoft\.NETFramework
+HKLM\SOFTWARE\Microsoft\Active Setup\Installed Components
+HKLM\SOFTWARE\Microsoft\Active Setup\Installed Components\{3BF41072-B2B1-31A8-B5C1-{Unique Identifier}
+HKLM\SOFTWARE\Microsoft\Active Setup\Installed Components\{3ef41072-a2f1-21c8-c5c1-70c2c3bc7905}
+HKLM\SOFTWARE\Microsoft\Active Setup\Installed Components\{6afa8072-b2b1-31a8-b5c1-{Unique Identifier}
+HKLM\SOFTWARE\Microsoft\Active Setup\Installed. Components\{3bf41072-b2b1-21c8-b5c1-bd56d32fbda7}
+HKLM\Software\Microsoft\AMSI to disable AMSI inspection.\nThis test removes the Windows Defender provider registry key. Upon execution
+HKLM\SOFTWARE\Microsoft\Cryptography
+HKLM\SOFTWARE\Microsoft\Cryptography MachineGuid
+HKLM\SOFTWARE\Microsoft\Cryptography\MachineGuid
+HKLM\SOFTWARE\Microsoft\Cryptography\OID
+HKLM\SOFTWARE\Microsoft\Cryptography\OID\n
+HKLM\SOFTWARE\Microsoft\Cryptography\Providers\Trust
+HKLM\SOFTWARE\Microsoft\Cryptography\Providers\Trust\n
+HKLM\SOFTWARE\Microsoft\CurrentVersion\Run
+HKLM\SOFTWARE\Microsoft\DRM
+HKLM\SOFTWARE\Microsoft\EnterpriseCertificates\Root\Certificates
+HKLM\SOFTWARE\Microsoft\Evilreg
+HKLM\SOFTWARE\Microsoft\Evilreg c
+HKLM\SOFTWARE\Microsoft\Hyper-V
+HKLM\Software\Microsoft\Internet Explorer
+HKLM\SOFTWARE\Microsoft\Microsoft\.NETFramework\ETWEnabled
+HKLM\SOFTWARE\Microsoft\MSDTC\MTxOCI
+HKLM\SOFTWARE\Microsoft\Netsh
+HKLM\Software\Microsoft\Office test\Special\Perf
+HKLM\SOFTWARE\Microsoft\Ole
+HKLM\SOFTWARE\Microsoft\Pniumj
+HKLM\SOFTWARE\Microsoft\VBA\Monitors
+HKLM\SOFTWARE\Microsoft\Virtual Machine\Guest\Parameters
+HKLM\SOFTWARE\Microsoft\VirtualMachine
+HKLM\SOFTWARE\Microsoft\Windows NT\Current Version\Winlogon\cachedlogonscountvalue
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion
+HKLM\Software\Microsoft\Windows NT\CurrentVersion ProductName
+hklm\software\microsoft\windows nt\currentversion\appcompatflags\custom
+hklm\software\microsoft\windows nt\currentversion\appcompatflags\installedsdb
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\AtBroker.exe
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\calc.exe
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\DisplaySwitch.exe
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\LSASS.exe
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\magnify.exe
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\narrator.exe
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\notepad.exe
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osk.exe
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\sethc.exe
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\utilman.exe
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\Configuration
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SilentProcessExit
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SilentProcessExit\notepad.exe
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Svchost
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SystemRestore
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Windows
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Windows\AppInit_DLLs \u2013
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Windows\LoadAppInit_DLLs \u2013 0x1
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\\Shell
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell from
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\SpecialAccounts\UserList
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\SpecialAccounts\UserList Registry key value to 0 for a specific user to prevent that user from being listed on the logon screen.\nReference https
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\SpecialAccounts\UserList\u2019
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\u201d
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Userinit
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Userinit value to launch calc.exe on boot.\n
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion
+HKLM\Software\Microsoft\Windows\CurrentVersion\App Paths
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Winword.exe
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\microphone\NonPackaged\C
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\webcam\NonPackaged\C
+HKLM\Software\Microsoft\Windows\CurrentVersion\Control Panel
+HKLM\Software\Microsoft\Windows\CurrentVersion\Controls Folder\{name}\Shellex\PropertySheetHandlers
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ControlPanel\NameSpace
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders -V
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\GameCon
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation\Manufacturer
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation\SupportHours
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run key value to launch calc.exe on boot. \n
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System\ConsentPromptBehaviorAdmin to 0.\n\n
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System\EnableLUA from 1 to 0\n
+HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System\legalnoticecaption
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System\LocalAccountTokenFilterPolicy
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\PrintConfigs
+HKLM\Software\Microsoft\Windows\CurrentVersion\Run
+HKLM\Software\Microsoft\Windows\CurrentVersion\Run.\n
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\Micromedia
+HKLM\Software\Microsoft\Windows\CurrentVersion\Run\n
+HKLM\Software\Microsoft\Windows\CurrentVersion\Run\QQMusic
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\ssonsvr.exe
+HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce
+HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnceEx
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnceEx\0001\Depend
+HKLM\Software\Microsoft\Windows\CurrentVersion\RunServices
+HKLM\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce
+HKLM\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce\nreg query HKCU\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce\nreg query HKLM\Software\Microsoft\Windows\CurrentVersion\RunServices\nreg query HKCU\Software\Microsoft\Windows\CurrentVersion\RunServices\nreg query
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellCompatibility\Applications\laxhost.dll
+HKLM\Software\Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad\nreg query HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce\nreg query HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnceEx\nreg query HKLM\Software\Microsoft\Windows\CurrentVersion\Run\nreg query HKCU\Software\Microsoft\Windows\CurrentVersion\Run\nreg query HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\nreg query HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run\nreg query HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run\nreg query HKLM\system\currentcontrolset\services
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\sibot
+HKLM\Software\Microsoft\Windows\CurrentVersion\spreadCpuXmr \u2013
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Sandboxie
+HKLM\Software\Microsoft\Windows\CurrentVersion\WINEVT\Channels\Microsoft-Windows-Windows Defender
+HKLM\Software\NFC
+HKLM\Software\NFC\IPA
+HKLM\SOFTWARE\Oracle\VirtualBox Guest Additions
+HKLM\SOFTWARE\Policies\Microsoft\AppV\Client\Virtualization\EnableDynamicVirtualization
+HKLM\SOFTWARE\Policies\Microsoft\SystemCertificates\Root\ProtectedRoots
+HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Reporting
+HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\UX Configuration
+HKLM\Software\Policies\Microsoft\Windows NT\CurrentVersion\Winlogon
+HKLM\Software\Policies\Microsoft\Windows NT\DNSClient
+HKLM\Software\Policies\Microsoft\Windows NT\DNSClient for changes to the
+HKLM\SOFTWARE\Policies\Microsoft\Windows NT\SystemRestore
+HKLM\Software\Policies\Microsoft\Windows\BITS
+HKLM\Software\Policies\Microsoft\Windows\Installer\AlwaysInstallElevated
+HKLM\SOFTWARE\Policies\Microsoft\Windows\System
+HKLM\Software\Policies\Microsoft\Windows\System\AllowBlockingAppsAtShutdown
+HKLM\SOFTWARE\Policies\Microsoft\Windows\WinRE\DisableSetup
+HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile
+HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\StandardProfile
+HKLM\SOFTWARE\VMware
+HKLM\SOFTWARE\Wine
+HKLM\SOFTWARE\Wow6432Node\BlackLivesMatter
+HKLM\SOFTWARE\WOW6432Node\Microsoft\Cryptography\OID
+HKLM\SOFTWARE\WOW6432Node\Microsoft\Cryptography\OID\n
+HKLM\SOFTWARE\WOW6432Node\Microsoft\Cryptography\Providers\Trust
+HKLM\SOFTWARE\WOW6432Node\Microsoft\Cryptography\Providers\Trust\n\n
+HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Windows
+HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\ImmersiveShell
+HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Run\AdobelmdyU
+HKLM\SOFTWARE\Wow6432Node\QtProject\OrganizationDefaults\SdXX6SS
+HKLM\SOFTWARE\Wow6432Node\QtProject\OrganizationDefaults\Xq71vG
+HKLM\SOFTWARE{\Wow6432Node}\Microsoft\Windows NT\CurrentVersion\Image File Execution Options
+HKLM\SYSTEM
+HKLM\SYSTEM C
+HKLM\system system
+HKLM\SYSTEM\\ControlSet001\\Control\\SecurityProviders\\WDigest
+HKLM\SYSTEM\\CurrentControlSet\\Services\\lanmanserver\\parameters\NullSessionPipes
+HKLM\SYSTEM\ControlSet001\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000
+HKLM\SYSTEM\ControlSet001\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000\Settings
+HKLM\SYSTEM\ControlSet001\Control\Print\Environments
+HKLM\SYSTEM\ControlSet001\Control\Print\Environments\Windows x64\Print Processors\UDPrint\u201d
+HKLM\SYSTEM\ControlSet001\Services
+HKLM\SYSTEM\ControlSet001\Services\Disk\Enum
+HKLM\SYSTEM\ControlSet001\Services\msvmmouf
+HKLM\SYSTEM\ControlSet001\services\SharedAccess\Parameters\FirewallPolicy\StandardProfile\DisableNotifications
+HKLM\SYSTEM\ControlSet001\services\SharedAccess\Parameters\FirewallPolicy\StandardProfile\DoNotAllowExceptions
+HKLM\SYSTEM\ControlSet001\services\SharedAccess\Parameters\FirewallPolicy\StandardProfile\EnableFirewall
+HKLM\SYSTEM\ControlSet001\Services\VBoxGuest
+HKLM\SYSTEM\ControlSet001\Services\VBoxMouse
+HKLM\SYSTEM\ControlSet001\Services\VBoxService
+HKLM\SYSTEM\ControlSet001\Services\VBoxSF
+HKLM\SYSTEM\ControlSet001\Services\VBoxVideo
+HKLM\SYSTEM\ControlSet001\Services\vmci
+HKLM\SYSTEM\ControlSet001\Services\vmdebug
+HKLM\SYSTEM\ControlSet001\Services\vmicexchange
+HKLM\SYSTEM\ControlSet001\Services\vmicheartbeat
+HKLM\SYSTEM\ControlSet001\Services\vmicshutdown
+HKLM\SYSTEM\ControlSet001\Services\vmicvss
+HKLM\SYSTEM\ControlSet001\Services\VMMEMCTL
+HKLM\SYSTEM\ControlSet001\Services\vmmouse
+HKLM\SYSTEM\ControlSet001\Services\VMTools
+HKLM\SYSTEM\ControlSet001\Services\vmware
+HKLM\SYSTEM\ControlSet001\Services\vmx86
+HKLM\SYSTEM\ControlSet001\Services\vpcbus
+HKLM\SYSTEM\ControlSet001\Services\vpc-s3
+HKLM\SYSTEM\ControlSet001\Services\vpcuhub
+HKLM\SYSTEM\ControlSet001\Services\xenevtchn
+HKLM\SYSTEM\ControlSet001\Services\xennet
+HKLM\SYSTEM\ControlSet001\Services\xennet6
+HKLM\SYSTEM\ControlSet001\Services\xensvc
+HKLM\SYSTEM\ControlSet001\Services\xenvdb
+HKLM\SYSTEM\ControlSet002\Services\Disk\Enum
+HKLM\SYSTEM\ControlSet003\Services\Disk\Enum
+HKLM\SYSTEM\CurrentControlSet\Control
+HKLM\SYSTEM\CurrentControlSet\Control\FileSystem
+HKLM\SYSTEM\CurrentControlSet\Control\LSA
+HKLM\SYSTEM\CurrentControlSet\Control\Lsa\ PathToAtomicsFolder\T1556.002\lsa_backup.reg\n
+HKLM\SYSTEM\CurrentControlSet\Control\Lsa\Notification Packages
+HKLM\SYSTEM\CurrentControlSet\Control\Lsa\OSConfig\Security Packages
+HKLM\SYSTEM\CurrentControlSet\Control\Lsa\RunAsPPL
+HKLM\SYSTEM\CurrentControlSet\Control\Lsa\Security Packages
+HKLM\SYSTEM\CurrentControlSet\Control\Lsa\SubmitControl
+HKLM\SYSTEM\CurrentControlSet\Control\Lsa\SubmitControl. The setting can be configured through GPO
+HKLM\SYSTEM\CurrentControlSet\Control\Nls\Language
+HKLM\SYSTEM\CurrentControlSet\Control\Nls\Language\n
+HKLM\SYSTEM\CurrentControlSet\Control\Power\CsEnabled
+HKLM\SYSTEM\CurrentControlSet\Control\Print\Environments
+HKLM\SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Print Processors
+HKLM\SYSTEM\CurrentControlSet\Control\Print\Monitors
+hklm\system\currentcontrolset\control\print\monitors\ART
+HKLM\SYSTEM\CurrentControlSet\Control\ProductOptions
+HKLM\SYSTEM\CurrentControlSet\Control\SafeBoot\Minimal
+HKLM\SYSTEM\CurrentControlSet\Control\SafeBoot\Minimal\AtomicSafeMode
+HKLM\SYSTEM\CurrentControlSet\Control\SafeBoot\Network\AtomicSafeMode
+HKLM\SYSTEM\CurrentControlSet\Control\SecurityProviders\WDigest
+HKLM\SYSTEM\CurrentControlSet\Control\SecurityProviders\WDigest.\n
+HKLM\System\CurrentControlSet\Control\Session Manager
+HKLM\System\CurrentControlSet\Control\Session Manager\AppCertDlls
+HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\BootExecute\u2019
+HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Environment\COMPlus_ETWEnabled
+HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Environment\Path
+HKLM\System\CurrentControlSet\Control\Session Manager\SafeDllSearchMode
+HKLM\SYSTEM\CurrentControlSet\Control\SystemInformation
+HKLM\SYSTEM\CurrentControlSet\Control\Terminal Server
+HKLM\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp
+HKLM\SYSTEM\CurrentControlSet\Control\Video\{GUID}\0000
+HKLM\SYSTEM\CurrentControlSet\Control\Video\{GUID}\Video
+HKLM\SYSTEM\CurrentControlSet\Control\WMI\Autologger\AUTOLOGGER_NAME\{PROVIDER_GUID}
+HKLM\SYSTEM\CurrentControlSet\Control\WMI\Security
+HKLM\SYSTEM\CurrentControlSet\Enum\IDE\CdRomNECVMWar_VMware_IDE_CD
+HKLM\SYSTEM\CurrentControlSet\Enum\IDE\CdRomNECVMWar_VMware_SATA_CD
+HKLM\SYSTEM\CurrentControlSet\Enum\IDE\DiskVMware_Virtual_IDE_Hard_Drive
+HKLM\SYSTEM\CurrentControlSet\Enum\IDE\DiskVMware_Virtual_SATA_Hard_Drive
+HKLM\SYSTEM\CurrentControlSet\Enum\PCI\VEN_15AD
+HKLM\SYSTEM\CurrentControlSet\Enum\PCI\VEN_1AB8
+HKLM\SYSTEM\CurrentControlSet\Enum\PCI\VEN_5333
+HKLM\SYSTEM\CurrentControlSet\Enum\PCI\VEN_80EE
+HKLM\SYSTEM\CurrentControlSet\Services
+HKLM\SYSTEM\CurrentControlSet\Services Registry Tree. Retrieved August 25
+HKLM\SYSTEM\CurrentControlSet\Services Registry Tree. Retrieved March 16
+HKLM\SYSTEM\CurrentControlSet\Services that may allow adversaries to launch their own code when a service starts
+HKLM\SYSTEM\CurrentControlSet\Services\calcservice
+HKLM\SYSTEM\CurrentControlSet\Services\Disk\Enum
+HKLM\SYSTEM\CurrentControlSet\Services\Disk\Enum\n
+HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters
+HKLM\System\CurrentControlSet\Services\mssmbios\Data\SMBiosData
+HKLM\SYSTEM\CurrentControlSet\Services\Netlogon\
+HKLM\SYSTEM\CurrentControlSet\Services\PortProxy\v4tov4\nUpon execution there will be a new proxy entry in netsh\nnetsh interface portproxy show all\n
+HKLM\SYSTEM\CurrentControlSet\Services\SbieDrv
+HKLM\SYSTEM\CurrentControlSet\Services\servicename\Parameters\ServiceDll
+HKLM\SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy
+HKLM\SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\PublicProfile
+HKLM\SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\StandardProfile
+HKLM\System\CurrentControlSet\Services\Tcpip\Parameters\Interfaces
+HKLM\System\CurrentControlSet\services\TermService\Parameters
+HKLM\SYSTEM\CurrentControlSet\Services\W32Time\TimeProvider.\nThe new time provider will point to a DLL which will be loaded after the w32time service is started. The DLL will then create the file AtomicTest.txt\nin C
+HKLM\SYSTEM\CurrentControlSet\Services\W32Time\TimeProvider.\nThe time provider will point to a DLL which will be loaded after the w32time service is started. The DLL will then create the file AtomicTest.txt\nin C
+HKLM\System\CurrentControlSet\Services\W32Time\TimeProviders
+HKLM\SYSTEM\CurrentControlSet\Services\W32Time\TimeProviders\AtomicTest
+HKLM\SYSTEM\CurrentControlSet\Services\W32Time\TimeProviders\NtpServer
+HKLM\SYSTEM\CurrentControlSet\Services\W64Time\Parameters
+HKLM\SYSTEM\CurrentControlSet\Services\weakservicename
+HKU\SOFTWARE\Microsoft\CTF

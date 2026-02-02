@@ -1,0 +1,656 @@
+{
+    "AUDIT_FILE_2EC71934":  {
+                                "Path":  "kernel32.dll",
+                                "Designation":  "Artefact binaire detecte dans ModuleBoundsHookCheck",
+                                "Type":  "FileSystem",
+                                "Origin":  "ModuleBoundsHookCheck.cpp"
+                            },
+    "AUDIT_FILE_7A107151":  {
+                                "Path":  "ntdll.dll",
+                                "Designation":  "Artefact binaire detecte dans ModuleBoundsHookCheck",
+                                "Type":  "FileSystem",
+                                "Origin":  "ModuleBoundsHookCheck.cpp"
+                            },
+    "AUDIT_FILE_66F84410":  {
+                                "Path":  "user32.dll",
+                                "Designation":  "Artefact binaire detecte dans ModuleBoundsHookCheck",
+                                "Type":  "FileSystem",
+                                "Origin":  "ModuleBoundsHookCheck.cpp"
+                            },
+    "AUDIT_FILE_A28758B0":  {
+                                "Path":  "psapi.dll",
+                                "Designation":  "Artefact binaire detecte dans ScanForModules",
+                                "Type":  "FileSystem",
+                                "Origin":  "ScanForModules.cpp"
+                            },
+    "AUDIT_REG_18680A66":  {
+                               "Path":  "HKLM\\System\\CurrentControlSet\\Services\\Disk\\Enum for values related",
+                               "Designation":  "Cible extraite de Generic",
+                               "Type":  "Registry",
+                               "Origin":  "Generic.cpp"
+                           },
+    "AUDIT_FILE_64CAB613":  {
+                                "Path":  "avghookx.dll",
+                                "Designation":  "Artefact binaire detecte dans Generic",
+                                "Type":  "FileSystem",
+                                "Origin":  "Generic.cpp"
+                            },
+    "AUDIT_FILE_00878ABF":  {
+                                "Path":  "avghooka.dll",
+                                "Designation":  "Artefact binaire detecte dans Generic",
+                                "Type":  "FileSystem",
+                                "Origin":  "Generic.cpp"
+                            },
+    "AUDIT_FILE_AA6CE3F8":  {
+                                "Path":  "snxhk.dll",
+                                "Designation":  "Artefact binaire detecte dans Generic",
+                                "Type":  "FileSystem",
+                                "Origin":  "Generic.cpp"
+                            },
+    "AUDIT_FILE_2345181E":  {
+                                "Path":  "sbiedll.dll",
+                                "Designation":  "Artefact binaire detecte dans Generic",
+                                "Type":  "FileSystem",
+                                "Origin":  "Generic.cpp"
+                            },
+    "AUDIT_FILE_4E6C0F80":  {
+                                "Path":  "dbghelp.dll",
+                                "Designation":  "Artefact binaire detecte dans Generic",
+                                "Type":  "FileSystem",
+                                "Origin":  "Generic.cpp"
+                            },
+    "AUDIT_FILE_928EADF5":  {
+                                "Path":  "api_log.dll",
+                                "Designation":  "Artefact binaire detecte dans Generic",
+                                "Type":  "FileSystem",
+                                "Origin":  "Generic.cpp"
+                            },
+    "AUDIT_FILE_B04E3733":  {
+                                "Path":  "dir_watch.dll",
+                                "Designation":  "Artefact binaire detecte dans Generic",
+                                "Type":  "FileSystem",
+                                "Origin":  "Generic.cpp"
+                            },
+    "AUDIT_FILE_4D9C5A0A":  {
+                                "Path":  "pstorec.dll",
+                                "Designation":  "Artefact binaire detecte dans Generic",
+                                "Type":  "FileSystem",
+                                "Origin":  "Generic.cpp"
+                            },
+    "AUDIT_FILE_B5142FB7":  {
+                                "Path":  "vmcheck.dll",
+                                "Designation":  "Artefact binaire detecte dans Generic",
+                                "Type":  "FileSystem",
+                                "Origin":  "Generic.cpp"
+                            },
+    "AUDIT_FILE_8AC64A35":  {
+                                "Path":  "wpespy.dll",
+                                "Designation":  "Artefact binaire detecte dans Generic",
+                                "Type":  "FileSystem",
+                                "Origin":  "Generic.cpp"
+                            },
+    "AUDIT_FILE_C02C6EBB":  {
+                                "Path":  "cmdvrt64.dll",
+                                "Designation":  "Artefact binaire detecte dans Generic",
+                                "Type":  "FileSystem",
+                                "Origin":  "Generic.cpp"
+                            },
+    "AUDIT_FILE_9914B18E":  {
+                                "Path":  "cmdvrt32.dll",
+                                "Designation":  "Artefact binaire detecte dans Generic",
+                                "Type":  "FileSystem",
+                                "Origin":  "Generic.cpp"
+                            },
+    "AUDIT_FILE_48B451A4":  {
+                                "Path":  "powerCaps.Sys",
+                                "Designation":  "Artefact binaire detecte dans Generic",
+                                "Type":  "FileSystem",
+                                "Origin":  "Generic.cpp"
+                            },
+    "AUDIT_FILE_10B69CBD":  {
+                                "Path":  "System32\\\\drivers\\\\balloon.sys",
+                                "Designation":  "Artefact binaire detecte dans KVM",
+                                "Type":  "FileSystem",
+                                "Origin":  "KVM.cpp"
+                            },
+    "AUDIT_FILE_FE2D601B":  {
+                                "Path":  "System32\\\\drivers\\\\netkvm.sys",
+                                "Designation":  "Artefact binaire detecte dans KVM",
+                                "Type":  "FileSystem",
+                                "Origin":  "KVM.cpp"
+                            },
+    "AUDIT_FILE_68FDAC78":  {
+                                "Path":  "System32\\\\drivers\\\\pvpanic.sys",
+                                "Designation":  "Artefact binaire detecte dans KVM",
+                                "Type":  "FileSystem",
+                                "Origin":  "KVM.cpp"
+                            },
+    "AUDIT_FILE_6FD739EF":  {
+                                "Path":  "System32\\\\drivers\\\\viofs.sys",
+                                "Designation":  "Artefact binaire detecte dans KVM",
+                                "Type":  "FileSystem",
+                                "Origin":  "KVM.cpp"
+                            },
+    "AUDIT_FILE_7B7E5C9C":  {
+                                "Path":  "System32\\\\drivers\\\\viogpudo.sys",
+                                "Designation":  "Artefact binaire detecte dans KVM",
+                                "Type":  "FileSystem",
+                                "Origin":  "KVM.cpp"
+                            },
+    "AUDIT_FILE_F8106212":  {
+                                "Path":  "System32\\\\drivers\\\\vioinput.sys",
+                                "Designation":  "Artefact binaire detecte dans KVM",
+                                "Type":  "FileSystem",
+                                "Origin":  "KVM.cpp"
+                            },
+    "AUDIT_FILE_5A79A9DA":  {
+                                "Path":  "System32\\\\drivers\\\\viorng.sys",
+                                "Designation":  "Artefact binaire detecte dans KVM",
+                                "Type":  "FileSystem",
+                                "Origin":  "KVM.cpp"
+                            },
+    "AUDIT_FILE_348F92FE":  {
+                                "Path":  "System32\\\\drivers\\\\vioscsi.sys",
+                                "Designation":  "Artefact binaire detecte dans KVM",
+                                "Type":  "FileSystem",
+                                "Origin":  "KVM.cpp"
+                            },
+    "AUDIT_FILE_AD14204C":  {
+                                "Path":  "System32\\\\drivers\\\\vioser.sys",
+                                "Designation":  "Artefact binaire detecte dans KVM",
+                                "Type":  "FileSystem",
+                                "Origin":  "KVM.cpp"
+                            },
+    "AUDIT_FILE_8D620C12":  {
+                                "Path":  "System32\\\\drivers\\\\viostor.sys",
+                                "Designation":  "Artefact binaire detecte dans KVM",
+                                "Type":  "FileSystem",
+                                "Origin":  "KVM.cpp"
+                            },
+    "AUDIT_FILE_03B54F66":  {
+                                "Path":  "System32\\\\drivers\\\\VBoxMouse.sys",
+                                "Designation":  "Artefact binaire detecte dans VirtualBox",
+                                "Type":  "FileSystem",
+                                "Origin":  "VirtualBox.cpp"
+                            },
+    "AUDIT_FILE_379928E1":  {
+                                "Path":  "System32\\\\drivers\\\\VBoxGuest.sys",
+                                "Designation":  "Artefact binaire detecte dans VirtualBox",
+                                "Type":  "FileSystem",
+                                "Origin":  "VirtualBox.cpp"
+                            },
+    "AUDIT_FILE_3133A79A":  {
+                                "Path":  "System32\\\\drivers\\\\VBoxSF.sys",
+                                "Designation":  "Artefact binaire detecte dans VirtualBox",
+                                "Type":  "FileSystem",
+                                "Origin":  "VirtualBox.cpp"
+                            },
+    "AUDIT_FILE_73DD9994":  {
+                                "Path":  "System32\\\\drivers\\\\VBoxVideo.sys",
+                                "Designation":  "Artefact binaire detecte dans VirtualBox",
+                                "Type":  "FileSystem",
+                                "Origin":  "VirtualBox.cpp"
+                            },
+    "AUDIT_FILE_C9839E0D":  {
+                                "Path":  "System32\\\\vboxdisp.dll",
+                                "Designation":  "Artefact binaire detecte dans VirtualBox",
+                                "Type":  "FileSystem",
+                                "Origin":  "VirtualBox.cpp"
+                            },
+    "AUDIT_FILE_18ED26D3":  {
+                                "Path":  "System32\\\\vboxhook.dll",
+                                "Designation":  "Artefact binaire detecte dans VirtualBox",
+                                "Type":  "FileSystem",
+                                "Origin":  "VirtualBox.cpp"
+                            },
+    "AUDIT_FILE_64C5C762":  {
+                                "Path":  "System32\\\\vboxmrxnp.dll",
+                                "Designation":  "Artefact binaire detecte dans VirtualBox",
+                                "Type":  "FileSystem",
+                                "Origin":  "VirtualBox.cpp"
+                            },
+    "AUDIT_FILE_80D452E4":  {
+                                "Path":  "System32\\\\vboxogl.dll",
+                                "Designation":  "Artefact binaire detecte dans VirtualBox",
+                                "Type":  "FileSystem",
+                                "Origin":  "VirtualBox.cpp"
+                            },
+    "AUDIT_FILE_875ED1E4":  {
+                                "Path":  "System32\\\\vboxoglarrayspu.dll",
+                                "Designation":  "Artefact binaire detecte dans VirtualBox",
+                                "Type":  "FileSystem",
+                                "Origin":  "VirtualBox.cpp"
+                            },
+    "AUDIT_FILE_FEE7CA5B":  {
+                                "Path":  "System32\\\\vboxoglcrutil.dll",
+                                "Designation":  "Artefact binaire detecte dans VirtualBox",
+                                "Type":  "FileSystem",
+                                "Origin":  "VirtualBox.cpp"
+                            },
+    "AUDIT_FILE_95F99B73":  {
+                                "Path":  "System32\\\\vboxoglerrorspu.dll",
+                                "Designation":  "Artefact binaire detecte dans VirtualBox",
+                                "Type":  "FileSystem",
+                                "Origin":  "VirtualBox.cpp"
+                            },
+    "AUDIT_FILE_7876FF7E":  {
+                                "Path":  "System32\\\\vboxoglfeedbackspu.dll",
+                                "Designation":  "Artefact binaire detecte dans VirtualBox",
+                                "Type":  "FileSystem",
+                                "Origin":  "VirtualBox.cpp"
+                            },
+    "AUDIT_FILE_57B99719":  {
+                                "Path":  "System32\\\\vboxoglpackspu.dll",
+                                "Designation":  "Artefact binaire detecte dans VirtualBox",
+                                "Type":  "FileSystem",
+                                "Origin":  "VirtualBox.cpp"
+                            },
+    "AUDIT_FILE_7845F743":  {
+                                "Path":  "System32\\\\vboxoglpassthroughspu.dll",
+                                "Designation":  "Artefact binaire detecte dans VirtualBox",
+                                "Type":  "FileSystem",
+                                "Origin":  "VirtualBox.cpp"
+                            },
+    "AUDIT_FILE_0C8F167C":  {
+                                "Path":  "System32\\\\drivers\\\\vmnet.sys",
+                                "Designation":  "Artefact binaire detecte dans VMWare",
+                                "Type":  "FileSystem",
+                                "Origin":  "VMWare.cpp"
+                            },
+    "AUDIT_FILE_DFE8A381":  {
+                                "Path":  "System32\\\\drivers\\\\vmmouse.sys",
+                                "Designation":  "Artefact binaire detecte dans VMWare",
+                                "Type":  "FileSystem",
+                                "Origin":  "VMWare.cpp"
+                            },
+    "AUDIT_FILE_4BC02C36":  {
+                                "Path":  "System32\\\\drivers\\\\vmusb.sys",
+                                "Designation":  "Artefact binaire detecte dans VMWare",
+                                "Type":  "FileSystem",
+                                "Origin":  "VMWare.cpp"
+                            },
+    "AUDIT_FILE_B4A8A07C":  {
+                                "Path":  "System32\\\\drivers\\\\vm3dmp.sys",
+                                "Designation":  "Artefact binaire detecte dans VMWare",
+                                "Type":  "FileSystem",
+                                "Origin":  "VMWare.cpp"
+                            },
+    "AUDIT_FILE_A172D2F4":  {
+                                "Path":  "System32\\\\drivers\\\\vmci.sys",
+                                "Designation":  "Artefact binaire detecte dans VMWare",
+                                "Type":  "FileSystem",
+                                "Origin":  "VMWare.cpp"
+                            },
+    "AUDIT_FILE_E43AFDC1":  {
+                                "Path":  "System32\\\\drivers\\\\vmhgfs.sys",
+                                "Designation":  "Artefact binaire detecte dans VMWare",
+                                "Type":  "FileSystem",
+                                "Origin":  "VMWare.cpp"
+                            },
+    "AUDIT_FILE_61EC1EDF":  {
+                                "Path":  "System32\\\\drivers\\\\vmmemctl.sys",
+                                "Designation":  "Artefact binaire detecte dans VMWare",
+                                "Type":  "FileSystem",
+                                "Origin":  "VMWare.cpp"
+                            },
+    "AUDIT_FILE_3DF57C8B":  {
+                                "Path":  "System32\\\\drivers\\\\vmx86.sys",
+                                "Designation":  "Artefact binaire detecte dans VMWare",
+                                "Type":  "FileSystem",
+                                "Origin":  "VMWare.cpp"
+                            },
+    "AUDIT_FILE_CBD56200":  {
+                                "Path":  "System32\\\\drivers\\\\vmrawdsk.sys",
+                                "Designation":  "Artefact binaire detecte dans VMWare",
+                                "Type":  "FileSystem",
+                                "Origin":  "VMWare.cpp"
+                            },
+    "AUDIT_FILE_0DD2DB8E":  {
+                                "Path":  "System32\\\\drivers\\\\vmusbmouse.sys",
+                                "Designation":  "Artefact binaire detecte dans VMWare",
+                                "Type":  "FileSystem",
+                                "Origin":  "VMWare.cpp"
+                            },
+    "AUDIT_FILE_7B2811D2":  {
+                                "Path":  "System32\\\\drivers\\\\vmkdb.sys",
+                                "Designation":  "Artefact binaire detecte dans VMWare",
+                                "Type":  "FileSystem",
+                                "Origin":  "VMWare.cpp"
+                            },
+    "AUDIT_FILE_F7E810A5":  {
+                                "Path":  "System32\\\\drivers\\\\vmnetuserif.sys",
+                                "Designation":  "Artefact binaire detecte dans VMWare",
+                                "Type":  "FileSystem",
+                                "Origin":  "VMWare.cpp"
+                            },
+    "AUDIT_FILE_79898A00":  {
+                                "Path":  "System32\\\\drivers\\\\vmnetadapter.sys",
+                                "Designation":  "Artefact binaire detecte dans VMWare",
+                                "Type":  "FileSystem",
+                                "Origin":  "VMWare.cpp"
+                            },
+    "AUDIT_FILE_6F2865E0":  {
+                                "Path":  "InjectedDLL.dll",
+                                "Designation":  "Artefact binaire detecte dans CreateRemoteThread",
+                                "Type":  "FileSystem",
+                                "Origin":  "CreateRemoteThread.cpp"
+                            },
+    "AUDIT_FILE_99061309":  {
+                                "Path":  "WUDFPlatform.dll",
+                                "Designation":  "Artefact binaire detecte dans APIs",
+                                "Type":  "FileSystem",
+                                "Origin":  "APIs.cpp"
+                            },
+    "AUDIT_REG_B5E85FBB":  {
+                               "Path":  "HKLM\\HARDWARE\\DEVICEMAP\\Scsi\\Scsi Port 0\\Scsi Bus 0\\Target Id 0\\Logical Unit Id 0 \\",
+                               "Designation":  "Cible extraite de main",
+                               "Type":  "Registry",
+                               "Origin":  "main.c"
+                           },
+    "AUDIT_REG_0D3BF0CD":  {
+                               "Path":  "HKLM\\HARDWARE\\Description\\System \\",
+                               "Designation":  "Cible extraite de main",
+                               "Type":  "Registry",
+                               "Origin":  "main.c"
+                           },
+    "AUDIT_REG_A9A8E528":  {
+                               "Path":  "HKLM\\SOFTWARE\\Oracle\\VirtualBox Guest Additions",
+                               "Designation":  "Cible extraite de main",
+                               "Type":  "Registry",
+                               "Origin":  "main.c"
+                           },
+    "AUDIT_REG_8ACE646D":  {
+                               "Path":  "HKLM\\HARDWARE\\ACPI\\DSDT\\VBOX__",
+                               "Designation":  "Cible extraite de main",
+                               "Type":  "Registry",
+                               "Origin":  "main.c"
+                           },
+    "AUDIT_REG_4AFF7BF1":  {
+                               "Path":  "HKLM\\HARDWARE\\ACPI\\FADT\\VBOX__",
+                               "Designation":  "Cible extraite de main",
+                               "Type":  "Registry",
+                               "Origin":  "main.c"
+                           },
+    "AUDIT_REG_80AE39A3":  {
+                               "Path":  "HKLM\\HARDWARE\\ACPI\\RSDT\\VBOX__",
+                               "Designation":  "Cible extraite de main",
+                               "Type":  "Registry",
+                               "Origin":  "main.c"
+                           },
+    "AUDIT_REG_B7863708":  {
+                               "Path":  "HKLM\\SYSTEM\\ControlSet001\\Services\\VBox",
+                               "Designation":  "Cible extraite de main",
+                               "Type":  "Registry",
+                               "Origin":  "main.c"
+                           },
+    "AUDIT_REG_52D21317":  {
+                               "Path":  "HKLM\\HARDWARE\\DEVICEMAP\\Scsi\\Scsi Port 0",
+                               "Designation":  "Cible extraite de main",
+                               "Type":  "Registry",
+                               "Origin":  "main.c"
+                           },
+    "AUDIT_REG_0CD50D39":  {
+                               "Path":  "HKLM\\SOFTWARE\\VMware",
+                               "Designation":  "Cible extraite de main",
+                               "Type":  "Registry",
+                               "Origin":  "main.c"
+                           },
+    "AUDIT_FILE_11E5F63B":  {
+                                "Path":  "\\\\WINDOWS\\\\system32\\\\drivers\\\\vmmouse.sys",
+                                "Designation":  "Artefact binaire detecte dans main",
+                                "Type":  "FileSystem",
+                                "Origin":  "main.c"
+                            },
+    "AUDIT_FILE_A2ECA69A":  {
+                                "Path":  "\\\\WINDOWS\\\\system32\\\\drivers\\\\vmhgfs.sys",
+                                "Designation":  "Artefact binaire detecte dans main",
+                                "Type":  "FileSystem",
+                                "Origin":  "main.c"
+                            },
+    "AUDIT_FILE_429BA8BF":  {
+                                "Path":  "\\\\WINDOWS\\\\system32\\\\drivers\\\\VBoxMouse.sys",
+                                "Designation":  "Artefact binaire detecte dans vbox",
+                                "Type":  "FileSystem",
+                                "Origin":  "vbox.c"
+                            },
+    "AUDIT_FILE_A1E3FAB2":  {
+                                "Path":  "\\\\WINDOWS\\\\system32\\\\drivers\\\\VBoxGuest.sys",
+                                "Designation":  "Artefact binaire detecte dans vbox",
+                                "Type":  "FileSystem",
+                                "Origin":  "vbox.c"
+                            },
+    "AUDIT_FILE_05B0036B":  {
+                                "Path":  "\\\\WINDOWS\\\\system32\\\\drivers\\\\VBoxSF.sys",
+                                "Designation":  "Artefact binaire detecte dans vbox",
+                                "Type":  "FileSystem",
+                                "Origin":  "vbox.c"
+                            },
+    "AUDIT_FILE_93540DC2":  {
+                                "Path":  "\\\\WINDOWS\\\\system32\\\\drivers\\\\VBoxVideo.sys",
+                                "Designation":  "Artefact binaire detecte dans vbox",
+                                "Type":  "FileSystem",
+                                "Origin":  "vbox.c"
+                            },
+    "AUDIT_FILE_3C9CAD31":  {
+                                "Path":  "\\\\WINDOWS\\\\system32\\\\vboxdisp.dll",
+                                "Designation":  "Artefact binaire detecte dans vbox",
+                                "Type":  "FileSystem",
+                                "Origin":  "vbox.c"
+                            },
+    "AUDIT_FILE_297DC03B":  {
+                                "Path":  "\\\\WINDOWS\\\\system32\\\\vboxhook.dll",
+                                "Designation":  "Artefact binaire detecte dans vbox",
+                                "Type":  "FileSystem",
+                                "Origin":  "vbox.c"
+                            },
+    "AUDIT_FILE_F08F5CD1":  {
+                                "Path":  "\\\\WINDOWS\\\\system32\\\\vboxmrxnp.dll",
+                                "Designation":  "Artefact binaire detecte dans vbox",
+                                "Type":  "FileSystem",
+                                "Origin":  "vbox.c"
+                            },
+    "AUDIT_FILE_02B7196C":  {
+                                "Path":  "\\\\WINDOWS\\\\system32\\\\vboxogl.dll",
+                                "Designation":  "Artefact binaire detecte dans vbox",
+                                "Type":  "FileSystem",
+                                "Origin":  "vbox.c"
+                            },
+    "AUDIT_FILE_984441B9":  {
+                                "Path":  "\\\\WINDOWS\\\\system32\\\\vboxoglarrayspu.dll",
+                                "Designation":  "Artefact binaire detecte dans vbox",
+                                "Type":  "FileSystem",
+                                "Origin":  "vbox.c"
+                            },
+    "AUDIT_FILE_562DC831":  {
+                                "Path":  "\\\\WINDOWS\\\\system32\\\\vboxoglcrutil.dll",
+                                "Designation":  "Artefact binaire detecte dans vbox",
+                                "Type":  "FileSystem",
+                                "Origin":  "vbox.c"
+                            },
+    "AUDIT_FILE_A7D642C3":  {
+                                "Path":  "\\\\WINDOWS\\\\system32\\\\vboxoglerrorspu.dll",
+                                "Designation":  "Artefact binaire detecte dans vbox",
+                                "Type":  "FileSystem",
+                                "Origin":  "vbox.c"
+                            },
+    "AUDIT_FILE_B4366810":  {
+                                "Path":  "\\\\WINDOWS\\\\system32\\\\vboxoglfeedbackspu.dll",
+                                "Designation":  "Artefact binaire detecte dans vbox",
+                                "Type":  "FileSystem",
+                                "Origin":  "vbox.c"
+                            },
+    "AUDIT_FILE_F55E8AA8":  {
+                                "Path":  "\\\\WINDOWS\\\\system32\\\\vboxoglpackspu.dll",
+                                "Designation":  "Artefact binaire detecte dans vbox",
+                                "Type":  "FileSystem",
+                                "Origin":  "vbox.c"
+                            },
+    "AUDIT_FILE_4AE142E0":  {
+                                "Path":  "\\\\WINDOWS\\\\system32\\\\vboxoglpassthroughspu.dll",
+                                "Designation":  "Artefact binaire detecte dans vbox",
+                                "Type":  "FileSystem",
+                                "Origin":  "vbox.c"
+                            },
+    "AUDIT_FILE_5806E41C":  {
+                                "Path":  "PCADM.DLL",
+                                "Designation":  "Artefact binaire detecte dans azagarampur",
+                                "Type":  "FileSystem",
+                                "Origin":  "azagarampur.c"
+                            },
+    "AUDIT_FILE_BFF396A6":  {
+                                "Path":  "winmm.dll",
+                                "Designation":  "Artefact binaire detecte dans dwells",
+                                "Type":  "FileSystem",
+                                "Origin":  "dwells.c"
+                            },
+    "AUDIT_FILE_B6AF6820":  {
+                                "Path":  "osksupport.dll",
+                                "Designation":  "Artefact binaire detecte dans hybrids",
+                                "Type":  "FileSystem",
+                                "Origin":  "hybrids.c"
+                            },
+    "AUDIT_FILE_39B0EA4C":  {
+                                "Path":  "ExploitClass.dll",
+                                "Designation":  "Artefact binaire detecte dans encresource",
+                                "Type":  "FileSystem",
+                                "Origin":  "encresource.h"
+                            },
+    "AUDIT_FILE_3AAE9060":  {
+                                "Path":  "System.dll",
+                                "Designation":  "Artefact binaire detecte dans encresource",
+                                "Type":  "FileSystem",
+                                "Origin":  "encresource.h"
+                            },
+    "AUDIT_FILE_C733C6AA":  {
+                                "Path":  "fusion.dll",
+                                "Designation":  "Artefact binaire detecte dans fusutil",
+                                "Type":  "FileSystem",
+                                "Origin":  "fusutil.c"
+                            },
+    "AUDIT_FILE_D825E0BD":  {
+                                "Path":  "shell32.dll",
+                                "Designation":  "Artefact binaire detecte dans sup",
+                                "Type":  "FileSystem",
+                                "Origin":  "sup.c"
+                            },
+    "AUDIT_FILE_43CFE07A":  {
+                                "Path":  "advapi32.dll",
+                                "Designation":  "Artefact binaire detecte dans dllmain",
+                                "Type":  "FileSystem",
+                                "Origin":  "dllmain.c"
+                            },
+    "AUDIT_FILE_A9703752":  {
+                                "Path":  "Launcher.Sys",
+                                "Designation":  "Artefact binaire detecte dans consts",
+                                "Type":  "FileSystem",
+                                "Origin":  "consts.h"
+                            },
+    "AUDIT_FILE_616EEC4F":  {
+                                "Path":  "api-ms-win-core-kernel32-legacy-l1.DLL",
+                                "Designation":  "Artefact binaire detecte dans consts",
+                                "Type":  "FileSystem",
+                                "Origin":  "consts.h"
+                            },
+    "AUDIT_FILE_BEA5C7F6":  {
+                                "Path":  "BluetoothDiagnosticUtil.dll",
+                                "Designation":  "Artefact binaire detecte dans consts",
+                                "Type":  "FileSystem",
+                                "Origin":  "consts.h"
+                            },
+    "AUDIT_FILE_A2D37539":  {
+                                "Path":  "comctl32.dll",
+                                "Designation":  "Artefact binaire detecte dans consts",
+                                "Type":  "FileSystem",
+                                "Origin":  "consts.h"
+                            },
+    "AUDIT_FILE_764B6771":  {
+                                "Path":  "dismcore.dll",
+                                "Designation":  "Artefact binaire detecte dans consts",
+                                "Type":  "FileSystem",
+                                "Origin":  "consts.h"
+                            },
+    "AUDIT_FILE_E3C2398F":  {
+                                "Path":  "duser.dll",
+                                "Designation":  "Artefact binaire detecte dans consts",
+                                "Type":  "FileSystem",
+                                "Origin":  "consts.h"
+                            },
+    "AUDIT_FILE_A70FC9A3":  {
+                                "Path":  "EmbeddedBrowserWebView.dll",
+                                "Designation":  "Artefact binaire detecte dans consts",
+                                "Type":  "FileSystem",
+                                "Origin":  "consts.h"
+                            },
+    "AUDIT_FILE_DCA04A2B":  {
+                                "Path":  "GdiPlus.dll",
+                                "Designation":  "Artefact binaire detecte dans consts",
+                                "Type":  "FileSystem",
+                                "Origin":  "consts.h"
+                            },
+    "AUDIT_FILE_52702C45":  {
+                                "Path":  "iscsiexe.dll",
+                                "Designation":  "Artefact binaire detecte dans consts",
+                                "Type":  "FileSystem",
+                                "Origin":  "consts.h"
+                            },
+    "AUDIT_FILE_C6CD09AA":  {
+                                "Path":  "PerformanceTraceHandler.dll",
+                                "Designation":  "Artefact binaire detecte dans consts",
+                                "Type":  "FileSystem",
+                                "Origin":  "consts.h"
+                            },
+    "AUDIT_FILE_23F9099F":  {
+                                "Path":  "wow64log.dll",
+                                "Designation":  "Artefact binaire detecte dans consts",
+                                "Type":  "FileSystem",
+                                "Origin":  "consts.h"
+                            },
+    "AUDIT_FILE_B29FCCB8":  {
+                                "Path":  "oleacc.dll",
+                                "Designation":  "Artefact binaire detecte dans util",
+                                "Type":  "FileSystem",
+                                "Origin":  "util.c"
+                            },
+    "AUDIT_FILE_A22CA8BB":  {
+                                "Path":  "WiFiCloudStore.dll",
+                                "Designation":  "Artefact binaire detecte dans util",
+                                "Type":  "FileSystem",
+                                "Origin":  "util.c"
+                            },
+    "AUDIT_FILE_185063DE":  {
+                                "Path":  "symsrv.dll",
+                                "Designation":  "Artefact binaire detecte dans appinfo",
+                                "Type":  "FileSystem",
+                                "Origin":  "appinfo.c"
+                            },
+    "AUDIT_FILE_E132DF42":  {
+                                "Path":  "appinfo.dll",
+                                "Designation":  "Artefact binaire detecte dans appinfo",
+                                "Type":  "FileSystem",
+                                "Origin":  "appinfo.c"
+                            },
+    "AUDIT_FILE_F4F600F4":  {
+                                "Path":  "FusionRedirectedDll.Dll",
+                                "Designation":  "Artefact binaire detecte dans fusion",
+                                "Type":  "FileSystem",
+                                "Origin":  "fusion.c"
+                            },
+    "AUDIT_FILE_B00F69AD":  {
+                                "Path":  "\\\\system32\\\\wintrust.dll",
+                                "Designation":  "Artefact binaire detecte dans main",
+                                "Type":  "FileSystem",
+                                "Origin":  "main.c"
+                            },
+    "AUDIT_FILE_25D886D3":  {
+                                "Path":  "\\\\system32\\\\appinfo.dll",
+                                "Designation":  "Artefact binaire detecte dans main",
+                                "Type":  "FileSystem",
+                                "Origin":  "main.c"
+                            },
+    "AUDIT_FILE_4D01B6E6":  {
+                                "Path":  "\\\\appinfo\\\\19041.dll",
+                                "Designation":  "Artefact binaire detecte dans main",
+                                "Type":  "FileSystem",
+                                "Origin":  "main.c"
+                            }
+}

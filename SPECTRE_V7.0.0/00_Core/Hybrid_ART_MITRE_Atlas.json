@@ -1,0 +1,600 @@
+﻿{
+    "Metadata":  {
+                     "Portable":  "TRUE",
+                     "Engine":  "SPECTRE_V8.7",
+                     "GenDate":  "21/01/2026 09:33:02"
+                 },
+    "Techniques":  {
+                       "T1547.001":  {
+                                         "Cloaking":  [
+                                                          {
+                                                              "Key":  "Startup",
+                                                              "Path":  "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders",
+                                                              "T":  "Registry",
+                                                              "Value":  "$env:APPDATA\\Microsoft\\Windows\\Start Menu\\Programs\\Startup"
+                                                          },
+                                                          {
+                                                              "Key":  "Userinit-backup",
+                                                              "Path":  "HKLM:\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon",
+                                                              "T":  "Registry",
+                                                              "Value":  "$oldvalue;"
+                                                          },
+                                                          {
+                                                              "Key":  "Userinit",
+                                                              "Path":  "HKLM:\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon",
+                                                              "T":  "Registry",
+                                                              "Value":  "$newvalue"
+                                                          },
+                                                          {
+                                                              "Key":  "Shell-backup",
+                                                              "Path":  "HKLM:\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon",
+                                                              "T":  "Registry",
+                                                              "Value":  "$oldvalue;"
+                                                          },
+                                                          {
+                                                              "Key":  "Shell",
+                                                              "Path":  "HKLM:\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon",
+                                                              "T":  "Registry",
+                                                              "Value":  "$newvalue"
+                                                          },
+                                                          {
+                                                              "Key":  "BootExecute",
+                                                              "Path":  "HKLM:\\SYSTEM\\CurrentControlSet\\Control\\Session Manager",
+                                                              "T":  "Registry",
+                                                              "Value":  "autocheck autochk *"
+                                                          }
+                                                      ],
+                                         "MITRE":  null,
+                                         "Analysis":  {
+                                                          "Intel":  [
+                                                                        "Adds a non-malicious executable shortcut link to the current users startup directory. Test can be verified by going to the users startup directory and checking if the shortcut link exists. "
+                                                                    ],
+                                                          "Furtivite_Score":  6
+                                                      },
+                                         "ID":  "T1547.001"
+                                     },
+                       "T1491.001":  {
+                                         "Cloaking":  [
+                                                          {
+                                                              "Key":  "LegalNoticeCaption",
+                                                              "Path":  "HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\System -Name LegalNoticeCaption -Value",
+                                                              "T":  "Registry",
+                                                              "Value":  "$newLegalNoticeCaption"
+                                                          },
+                                                          {
+                                                              "Key":  "LegalNoticeText",
+                                                              "Path":  "HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\System -Name LegalNoticeText -Value",
+                                                              "T":  "Registry",
+                                                              "Value":  "$newLegalNoticeText"
+                                                          }
+                                                      ],
+                                         "MITRE":  null,
+                                         "Analysis":  {
+                                                          "Intel":  [
+
+                                                                    ],
+                                                          "Furtivite_Score":  2
+                                                      },
+                                         "ID":  "T1491.001"
+                                     },
+                       "T1133":  {
+                                     "Cloaking":  [
+                                                      {
+                                                          "Key":  "update_url",
+                                                          "Path":  "HKLM:\\Software\\Wow6432Node\\Google\\Chrome\\Extensions\\",
+                                                          "T":  "Registry",
+                                                          "Value":  "https://clients2.google.com/service/update2/crx"
+                                                      }
+                                                  ],
+                                     "MITRE":  null,
+                                     "Analysis":  {
+                                                      "Intel":  [
+
+                                                                ],
+                                                      "Furtivite_Score":  1
+                                                  },
+                                     "ID":  "T1133"
+                                 },
+                       "T1547.014":  {
+                                         "Cloaking":  [
+                                                          {
+                                                              "Key":  "Version",
+                                                              "Path":  "HKCU:\\SOFTWARE\\Microsoft\\Active Setup\\Installed Components\\",
+                                                              "T":  "Registry",
+                                                              "Value":  "0,0,0,0"
+                                                          }
+                                                      ],
+                                         "MITRE":  null,
+                                         "Analysis":  {
+                                                          "Intel":  [
+
+                                                                    ],
+                                                          "Furtivite_Score":  1
+                                                      },
+                                         "ID":  "T1547.014"
+                                     },
+                       "T1547.008":  {
+                                         "Cloaking":  [
+                                                          {
+                                                              "Key":  "LsaDbExtPt",
+                                                              "Path":  "HKLM:\\SYSTEM\\CurrentControlSet\\Services\\NTDS -Name LsaDbExtPt -Value",
+                                                              "T":  "Registry",
+                                                              "Value":  "$env:windir\\System32\\ntds_audit.dll"
+                                                          }
+                                                      ],
+                                         "MITRE":  null,
+                                         "Analysis":  {
+                                                          "Intel":  [
+
+                                                                    ],
+                                                          "Furtivite_Score":  1
+                                                      },
+                                         "ID":  "T1547.008"
+                                     },
+                       "T1204.002":  {
+                                         "Cloaking":  [
+                                                          {
+                                                              "Key":  "atomictest",
+                                                              "Path":  "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\RunMRU",
+                                                              "T":  "Registry",
+                                                              "Value":  "C:\\Windows\\System32\\mshta.exe"
+                                                          }
+                                                      ],
+                                         "MITRE":  null,
+                                         "Analysis":  {
+                                                          "Intel":  [
+                                                                        "Microsoft Office creating then launching a .bat script from an AppData directory. The .bat file launches calc.exe when opened.",
+                                                                        "This lnk files invokes powershell to download putty from the internet and opens the file. https://twitter.com/ankit_anubhav/status/1518932941090410496",
+                                                                        "Simulates user execution of a BAT file downloaded from the Atomic Red Team GitHub repository.This test represents T1204.002 - User Execution via Malicious File.The BAT file performs harmless terminal output to simulate a \"fix\" operation."
+                                                                    ],
+                                                          "Furtivite_Score":  1
+                                                      },
+                                         "ID":  "T1204.002"
+                                     },
+                       "T1090.003":  {
+                                         "Cloaking":  [
+                                                          {
+                                                              "Key":  "ProxyServer",
+                                                              "Path":  "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+                                                              "T":  "Registry",
+                                                              "Value":  "$Proxy}"
+                                                          }
+                                                      ],
+                                         "MITRE":  null,
+                                         "Analysis":  {
+                                                          "Intel":  [
+
+                                                                    ],
+                                                          "Furtivite_Score":  1
+                                                      },
+                                         "ID":  "T1090.003"
+                                     },
+                       "T1562.006":  {
+                                         "Cloaking":  [
+                                                          {
+                                                              "Key":  "ETWEnabled",
+                                                              "Path":  "HKLM:\\Software\\Microsoft\\",
+                                                              "T":  "Registry",
+                                                              "Value":  "0"
+                                                          },
+                                                          {
+                                                              "Key":  "COMPlus_ETWEnabled",
+                                                              "Path":  "HKCU:\\Environment -Name COMPlus_ETWEnabled -Value 0",
+                                                              "T":  "Registry",
+                                                              "Value":  "0"
+                                                          }
+                                                      ],
+                                         "MITRE":  null,
+                                         "Analysis":  {
+                                                          "Intel":  [
+                                                                        "This test was created to disable the Microsoft Powershell ETW provider by using the built-in Windows tool, logman.exe. This provider is used as a common source of telemetry in AV/EDR solutions.",
+                                                                        "Disables ETW for the .NET Framework using the reg.exe utility to update the Windows registry",
+                                                                        "Disables ETW for the .NET Framework using PowerShell to update the Windows registry",
+                                                                        "Disables ETW for the .NET Framework by setting the COMPlus_ETWEnabled environment variable to 0 in the HKCU registry using the reg.exe utility. In order for changes to take effect a logout might be required.",
+                                                                        "Disables ETW for the .NET Framework by setting the COMPlus_ETWEnabled environment variable to 0 in the HKCU registry using PowerShell. In order for changes to take effect a logout might be required.",
+                                                                        "Disables ETW for the .NET Framework by setting the COMPlus_ETWEnabled environment variable to 0 in the HKLM registry using the reg.exe utility. In order for changes to take effect a reboot might be required.",
+                                                                        "Disables ETW for the .NET Framework by setting the COMPlus_ETWEnabled environment variable to 0 in the HKLM registry using PowerShell. In order for changes to take effect a reboot might be required.",
+                                                                        "Adversaries are redirecting DNS queries to an incorrect or malicious DNS server IP, thereby blocking legitimate communications and potentially compromising the security infrastructure. This atomic test aims to respond with 127.0.0.1 when a DNS query is made for endpoint.security.microsoft.com."
+                                                                    ],
+                                                          "Furtivite_Score":  2
+                                                      },
+                                         "ID":  "T1562.006"
+                                     },
+                       "T1003":  {
+                                     "Cloaking":  [
+                                                      {
+                                                          "Key":  "Class",
+                                                          "Path":  "HKLM:\\SYSTEM\\CurrentControlSet\\Services\\NPPSpy\\NetworkProvider -Name",
+                                                          "T":  "Registry",
+                                                          "Value":  "2"
+                                                      },
+                                                      {
+                                                          "Key":  "Name",
+                                                          "Path":  "HKLM:\\SYSTEM\\CurrentControlSet\\Services\\NPPSpy\\NetworkProvider -Name",
+                                                          "T":  "Registry",
+                                                          "Value":  "NPPSpy"
+                                                      }
+                                                  ],
+                                     "MITRE":  null,
+                                     "Analysis":  {
+                                                      "Intel":  [
+
+                                                                ],
+                                                      "Furtivite_Score":  2
+                                                  },
+                                     "ID":  "T1003"
+                                 },
+                       "T1548.002":  {
+                                         "Cloaking":  [
+                                                          {
+                                                              "Key":  "DelegateExecute",
+                                                              "Path":  "HKCU:\\software\\classes\\ms-settings\\shell\\open\\command",
+                                                              "T":  "Registry",
+                                                              "Value":  ""
+                                                          },
+                                                          {
+                                                              "Key":  "ConsentPromptBehaviorAdmin",
+                                                              "Path":  "HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\System -Name ConsentPromptBehaviorAdmin -Value 0",
+                                                              "T":  "Registry",
+                                                              "Value":  "0"
+                                                          },
+                                                          {
+                                                              "Key":  "PromptOnSecureDesktop",
+                                                              "Path":  "HKLM:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\System -Name PromptOnSecureDesktop -Value 0",
+                                                              "T":  "Registry",
+                                                              "Value":  "0"
+                                                          }
+                                                      ],
+                                         "MITRE":  null,
+                                         "Analysis":  {
+                                                          "Intel":  [
+                                                                        "UAC bypass using Magic technique via function of WinPwn",
+                                                                        "UAC bypass using ccmstp technique via function of WinPwn",
+                                                                        "UAC bypass using DiskCleanup technique via function of WinPwn",
+                                                                        "UAC Bypass DccwBypassUAC technique via function of WinPwn"
+                                                                    ],
+                                                          "Furtivite_Score":  3
+                                                      },
+                                         "ID":  "T1548.002"
+                                     },
+                       "T1505.005":  {
+                                         "Cloaking":  [
+                                                          {
+                                                              "Key":  "ServiceDll",
+                                                              "Path":  "HKLM:\\System\\CurrentControlSet\\services\\TermService\\Parameters",
+                                                              "T":  "Registry",
+                                                              "Value":  "C:\\Windows\\System32\\termsrv.dll"
+                                                          }
+                                                      ],
+                                         "MITRE":  null,
+                                         "Analysis":  {
+                                                          "Intel":  [
+                                                                        "This atomic test simulates the modification of the ServiceDll value in HKLM\\System\\CurrentControlSet\\services\\TermService\\Parameters. This technique may be leveraged by adversaries to establish persistence by loading a patched version of the DLL containing malicious code."
+                                                                    ],
+                                                          "Furtivite_Score":  1
+                                                      },
+                                         "ID":  "T1505.005"
+                                     },
+                       "T1562.001":  {
+                                         "Cloaking":  [
+                                                          {
+                                                              "Key":  "DisableAntiSpyware",
+                                                              "Path":  "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows Defender",
+                                                              "T":  "Registry",
+                                                              "Value":  "1"
+                                                          },
+                                                          {
+                                                              "Key":  "VBAWarnings",
+                                                              "Path":  "HKCU:\\Software\\Microsoft\\Office\\16",
+                                                              "T":  "Registry",
+                                                              "Value":  "1"
+                                                          },
+                                                          {
+                                                              "Key":  "DisableInternetFilesInPV",
+                                                              "Path":  "HKCU:\\Software\\Microsoft\\Office\\16",
+                                                              "T":  "Registry",
+                                                              "Value":  "1"
+                                                          },
+                                                          {
+                                                              "Key":  "DisableUnsafeLocationsInPV",
+                                                              "Path":  "HKCU:\\Software\\Microsoft\\Office\\16",
+                                                              "T":  "Registry",
+                                                              "Value":  "1"
+                                                          },
+                                                          {
+                                                              "Key":  "DisableAttachementsInPV",
+                                                              "Path":  "HKCU:\\Software\\Microsoft\\Office\\16",
+                                                              "T":  "Registry",
+                                                              "Value":  "1"
+                                                          },
+                                                          {
+                                                              "Key":  "DefaultUserName",
+                                                              "Path":  "HKLM:\\Software\\Policies\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon",
+                                                              "T":  "Registry",
+                                                              "Value":  "Administrator"
+                                                          },
+                                                          {
+                                                              "Key":  "DefaultDomainName",
+                                                              "Path":  "HKLM:\\Software\\Policies\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon",
+                                                              "T":  "Registry",
+                                                              "Value":  "contoso.com"
+                                                          },
+                                                          {
+                                                              "Key":  "DefaultPassword",
+                                                              "Path":  "HKLM:\\Software\\Policies\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon",
+                                                              "T":  "Registry",
+                                                              "Value":  "password1"
+                                                          },
+                                                          {
+                                                              "Key":  "DisableAntiVirus",
+                                                              "Path":  "HKLM:\\Software\\Policies\\Microsoft\\Windows Defender",
+                                                              "T":  "Registry",
+                                                              "Value":  "1"
+                                                          },
+                                                          {
+                                                              "Key":  "DisableBehaviorMonitoring",
+                                                              "Path":  "HKLM:\\Software\\Policies\\Microsoft\\Windows Defender\\Real-Time Protection",
+                                                              "T":  "Registry",
+                                                              "Value":  "1"
+                                                          },
+                                                          {
+                                                              "Key":  "DisableIntrusionPreventionSystem",
+                                                              "Path":  "HKLM:\\Software\\Policies\\Microsoft\\Windows Defender\\Real-Time Protection",
+                                                              "T":  "Registry",
+                                                              "Value":  "1"
+                                                          },
+                                                          {
+                                                              "Key":  "DisableIOAVProtection",
+                                                              "Path":  "HKLM:\\Software\\Policies\\Microsoft\\Windows Defender\\Real-Time Protection",
+                                                              "T":  "Registry",
+                                                              "Value":  "1"
+                                                          },
+                                                          {
+                                                              "Key":  "DisableOnAccessProtection",
+                                                              "Path":  "HKLM:\\Software\\Policies\\Microsoft\\Windows Defender\\Real-Time Protection",
+                                                              "T":  "Registry",
+                                                              "Value":  "1"
+                                                          },
+                                                          {
+                                                              "Key":  "DisableRealtimeMonitoring",
+                                                              "Path":  "HKLM:\\Software\\Policies\\Microsoft\\Windows Defender\\Real-Time Protection",
+                                                              "T":  "Registry",
+                                                              "Value":  "1"
+                                                          },
+                                                          {
+                                                              "Key":  "DisableRoutinelyTakingAction",
+                                                              "Path":  "HKLM:\\Software\\Policies\\Microsoft\\Windows Defender\\Real-Time Protection",
+                                                              "T":  "Registry",
+                                                              "Value":  "1"
+                                                          },
+                                                          {
+                                                              "Key":  "DisableScanOnRealtimeEnable",
+                                                              "Path":  "HKLM:\\Software\\Policies\\Microsoft\\Windows Defender\\Real-Time Protection",
+                                                              "T":  "Registry",
+                                                              "Value":  "1"
+                                                          },
+                                                          {
+                                                              "Key":  "DisableScriptScanning",
+                                                              "Path":  "HKLM:\\Software\\Policies\\Microsoft\\Windows Defender\\Real-Time Protection",
+                                                              "T":  "Registry",
+                                                              "Value":  "1"
+                                                          },
+                                                          {
+                                                              "Key":  "DisableEnhancedNotifications",
+                                                              "Path":  "HKLM:\\Software\\Policies\\Microsoft\\Windows Defender\\Reporting",
+                                                              "T":  "Registry",
+                                                              "Value":  "1"
+                                                          },
+                                                          {
+                                                              "Key":  "DisableBlockAtFirstSeen",
+                                                              "Path":  "HKLM:\\Software\\Policies\\Microsoft\\Windows Defender\\SpyNet",
+                                                              "T":  "Registry",
+                                                              "Value":  "1"
+                                                          },
+                                                          {
+                                                              "Key":  "SpynetReporting",
+                                                              "Path":  "HKLM:\\Software\\Policies\\Microsoft\\Windows Defender\\SpyNet",
+                                                              "T":  "Registry",
+                                                              "Value":  "0"
+                                                          },
+                                                          {
+                                                              "Key":  "MpEnablePus",
+                                                              "Path":  "HKLM:\\Software\\Policies\\Microsoft\\Windows Defender\\MpEngine",
+                                                              "T":  "Registry",
+                                                              "Value":  "0"
+                                                          },
+                                                          {
+                                                              "Key":  "DisallowExploitProtectionOverride",
+                                                              "Path":  "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows Defender Security Center\\App and Browser protection",
+                                                              "T":  "Registry",
+                                                              "Value":  "0"
+                                                          },
+                                                          {
+                                                              "Key":  "TamperProtection",
+                                                              "Path":  "HKLM:\\SOFTWARE\\Microsoft\\Windows Defender\\Features",
+                                                              "T":  "Registry",
+                                                              "Value":  "0"
+                                                          },
+                                                          {
+                                                              "Key":  "SubmitSamplesConsent",
+                                                              "Path":  "HKLM:\\software\\microsoft\\windows defender\\spynet",
+                                                              "T":  "Registry",
+                                                              "Value":  "0"
+                                                          },
+                                                          {
+                                                              "Key":  "PUAProtection",
+                                                              "Path":  "HKLM:\\Software\\Microsoft\\Windows Defender",
+                                                              "T":  "Registry",
+                                                              "Value":  "0"
+                                                          },
+                                                          {
+                                                              "Key":  "AmsiEnable",
+                                                              "Path":  "HKCU:\\Software\\Microsoft\\Windows Script\\Settings",
+                                                              "T":  "Registry",
+                                                              "Value":  "0"
+                                                          },
+                                                          {
+                                                              "Key":  "Start",
+                                                              "Path":  "HKLM:\\System\\CurrentControlSet\\Control\\WMI\\Autologger\\EventLog-Application -Name Start -Value 0",
+                                                              "T":  "Registry",
+                                                              "Value":  "0"
+                                                          },
+                                                          {
+                                                              "Key":  "Enabled",
+                                                              "Path":  "HKLM:\\System\\CurrentControlSet\\Control\\WMI\\Autologger\\EventLog-Application\\",
+                                                              "T":  "Registry",
+                                                              "Value":  "0"
+                                                          }
+                                                      ],
+                                         "MITRE":  null,
+                                         "Analysis":  {
+                                                          "Intel":  [
+                                                                        "Kill the event log services for stealth via function of WinPwn",
+                                                                        "This test simulates the deletion of the ASR rules loaded by Microsoft Defender using the registry. Depending on the deployment, rules can be pushed either using GPO or InTune, This test simulates an InTune-based rules deployment.",
+                                                                        "This test simulates the deletion of the ASR rules loaded by Microsoft Defender using the registry. Depending on the deployment, rules can be pushed either using GPO or InTune, This test simulates a GPO-based rules deployment.",
+                                                                        "This atomic simulates an activity where an attacker disables the EventLog-Application ETW Auto Logger session using the reg.exe utility to update the Windows registry value \"Start\". This would effectivly disable the Event log application channel. The changes would only take effect after a restart.",
+                                                                        "This atomic simulates an activity where an attacker disables the EventLog-Application ETW Auto Logger session using the powershell.exe \"New-ItemProperty\" cmdlet to update the Windows registry value \"Start\". This would effectivly disable the Event log application channel. The changes would only take effect after a restart.",
+                                                                        "This atomic simulates an activity where an attacker disables a specific ETW provider from the EventLog-Application ETW Auto Logger session using the reg.exe utility to update the Windows registry value \"Enabled\". This would effectivly remove that provider from the session and cause to not emit any logs of that type. The changes would only take effect after a restart.",
+                                                                        "This atomic simulates an activity where an attacker disables a specific ETW provider from the EventLog-Application ETW Auto Logger session using the powershell.exe \"New-ItemProperty\" cmdlet to update the Windows registry value \"Enabled\". This would effectivly remove that provider from the session and cause to not emit any logs of that type. The changes would only take effect after a restart.",
+                                                                        "This test utilizes the tool EDR-Freeze, which leverages the native Microsoft binary WerFaultSecure.exe to suspend processes protected by the Protected Process Light mechanism. PPL is a Windows security feature designed to safeguard critical system processes â€” such as those related to antivirus, credential protection, and system integrity â€” from tampering or inspection. These processes operate in a restricted environment that prevents access even from administrators or debugging tools, unless the accessing tool is signed and trusted by Microsoft. By using WerFaultSecure.exe, which is inherently trusted by the operating system, EDR-Freeze is able to bypass these restrictions and temporarily freeze PPL-protected processes for analysis or testing purposes."
+                                                                    ],
+                                                          "Furtivite_Score":  28
+                                                      },
+                                         "ID":  "T1562.001"
+                                     },
+                       "T1112":  {
+                                     "Cloaking":  [
+                                                      {
+                                                          "Key":  "T1112",
+                                                          "Path":  "HKCU:\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+                                                          "T":  "Registry",
+                                                          "Value":  "\u003cscript\u003e"
+                                                      },
+                                                      {
+                                                          "Key":  "DisableCMD",
+                                                          "Path":  "HKCU:\\Software\\Policies\\Microsoft\\Windows\\System",
+                                                          "T":  "Registry",
+                                                          "Value":  "1"
+                                                      },
+                                                      {
+                                                          "Key":  "MR9",
+                                                          "Path":  "HKCU:\\SOFTWARE\\Microsoft\\Terminal Server Client\\Default",
+                                                          "T":  "Registry",
+                                                          "Value":  "127.0.0.1"
+                                                      },
+                                                      {
+                                                          "Key":  "AtomicSnake",
+                                                          "Path":  "HKLM:\\SOFTWARE\\Classes\\",
+                                                          "T":  "Registry",
+                                                          "Value":  "$randomBytes"
+                                                      }
+                                                  ],
+                                     "MITRE":  null,
+                                     "Analysis":  {
+                                                      "Intel":  [
+                                                                    "Modify event viewer registry values to alter the behavior of the online help redirection. Upon opening an event in event viewer and attempting to view the help page for the event, it will open the URL or execute the program defined in the redirection URL registry entry.",
+                                                                    "Modify event viewer registry values to alter the behavior of the online help redirection. Upon opening an event in event viewer and attempting to view the help page for the event, it will execute the program defined in the redirection program registry entry."
+                                                                ],
+                                                      "Furtivite_Score":  4
+                                                  },
+                                     "ID":  "T1112"
+                                 },
+                       "T1036.005":  {
+                                         "Cloaking":  [
+                                                          {
+                                                              "Key":  "VEDetector",
+                                                              "Path":  "HKLM:\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+                                                              "T":  "Registry",
+                                                              "Value":  "#{ved_path}\\VEDetector.exe"
+                                                          }
+                                                      ],
+                                         "MITRE":  null,
+                                         "Analysis":  {
+                                                          "Intel":  [
+
+                                                                    ],
+                                                          "Furtivite_Score":  1
+                                                      },
+                                         "ID":  "T1036.005"
+                                     },
+                       "T1546":  {
+                                     "Cloaking":  [
+                                                      {
+                                                          "Key":  "AutodialDLL",
+                                                          "Path":  "HKLM:\\SYSTEM\\CurrentControlSet\\Services\\WinSock2\\Parameters -Name AutodialDLL -Value PathToAtomicsFolder\\T1546\\bin\\AltWinSock2DLL",
+                                                          "T":  "Registry",
+                                                          "Value":  "PathToAtomicsFolder\\T1546\\bin\\AltWinSock2DLL.dll"
+                                                      },
+                                                      {
+                                                          "Key":  "AutoRun",
+                                                          "Path":  "HKLM:\\Software\\Microsoft\\Command Processor",
+                                                          "T":  "Registry",
+                                                          "Value":  "#{command}"
+                                                      }
+                                                  ],
+                                     "MITRE":  null,
+                                     "Analysis":  {
+                                                      "Intel":  [
+
+                                                                ],
+                                                      "Furtivite_Score":  2
+                                                  },
+                                     "ID":  "T1546"
+                                 },
+                       "T1105":  {
+                                     "Cloaking":  [
+                                                      {
+                                                          "Key":  "UpdateRingSettingURLFromOC",
+                                                          "Path":  "HKCU:\\Software\\Microsoft\\OneDrive\\UpdateOfficeConfig",
+                                                          "T":  "Registry",
+                                                          "Value":  "https://malicious-apt.com"
+                                                      },
+                                                      {
+                                                          "Key":  "ODSUUpdateXMLUrlFromOC",
+                                                          "Path":  "HKCU:\\Software\\Microsoft\\OneDrive\\UpdateOfficeConfig",
+                                                          "T":  "Registry",
+                                                          "Value":  "https://malicious-apt.com"
+                                                      },
+                                                      {
+                                                          "Key":  "UpdateXMLUrlFromOC",
+                                                          "Path":  "HKCU:\\Software\\Microsoft\\OneDrive\\UpdateOfficeConfig",
+                                                          "T":  "Registry",
+                                                          "Value":  "https://malicious-apt.com"
+                                                      },
+                                                      {
+                                                          "Key":  "UpdateOfficeConfigTimestamp",
+                                                          "Path":  "HKCU:\\Software\\Microsoft\\OneDrive\\UpdateOfficeConfig",
+                                                          "T":  "Registry",
+                                                          "Value":  "99999999999"
+                                                      }
+                                                  ],
+                                     "MITRE":  null,
+                                     "Analysis":  {
+                                                      "Intel":  [
+                                                                    "Use certreq to download a file from the web",
+                                                                    "Use wscript to run a local VisualBasic file to download a remote file"
+                                                                ],
+                                                      "Furtivite_Score":  4
+                                                  },
+                                     "ID":  "T1105"
+                                 },
+                       "T1021.001":  {
+                                         "Cloaking":  [
+                                                          {
+                                                              "Key":  "PortNumber",
+                                                              "Path":  "HKLM:\\SYSTEM\\CurrentControlSet\\Control\\Terminal Server\\WinStations\\RDP-Tcp",
+                                                              "T":  "Registry",
+                                                              "Value":  "3389"
+                                                          }
+                                                      ],
+                                         "MITRE":  null,
+                                         "Analysis":  {
+                                                          "Intel":  [
+
+                                                                    ],
+                                                          "Furtivite_Score":  1
+                                                      },
+                                         "ID":  "T1021.001"
+                                     }
+                   }
+}
